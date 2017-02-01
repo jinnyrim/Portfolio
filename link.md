@@ -1,1 +1,0 @@
-1. [nell](https://jinnyrim.github.io/portfolio/nell/index)
