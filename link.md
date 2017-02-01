@@ -1,1 +1,1 @@
-1. [nell](https://jinnyrim.github.io/portfolio/nell/index.html)
+1. [nell](https://jinnyrim.github.io/portfolio/nell/index)
