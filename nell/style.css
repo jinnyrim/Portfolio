@@ -161,7 +161,7 @@ audio{
 	padding-top:10px;
 	padding-bottom:40px;
 	margin:0 auto;
-	volume:0;
+	volume:0.0;
 }
 audio::-internal-media-controls-download-button {
     display:none;

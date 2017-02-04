@@ -8,14 +8,17 @@
 	<link rel = "stylesheet" type="text/css" href="style.css">
 	
 
-	<script>		
+	<script>
+	
        $(document).ready(function(){
-			
+		   
+
 		$(".lyrics").hide();
 		$("li").click(function(){
 			$(this).children().toggle();
 			$("li").toggle();
 			$(this).show();
+			$("audio").prop('muted', true);
 		});
 	});	
 	</script>	
