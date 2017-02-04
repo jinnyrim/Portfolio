@@ -1,0 +1,55 @@
+body{
+
+}
+header{
+    text-align:center;
+    font-size:60px;
+    margin:0 auto;
+}
+
+h3{
+    font-size:20px;
+    margin:2em;
+}
+
+.quote{
+    margin:2rem;
+}
+
+.underline{
+    border-bottom:solid 5px;
+    border-bottom-color: springgreen;
+}
+.right{
+    text-align:right;
+    margin-top:5em;
+}
+
+.background{
+    font-family: lucidaBold;
+    font-size:4rem;
+    text-align:center;
+    display:block;
+    width:50%;;
+    line-height:1.6;
+    margin:280px auto;
+    z-index:-1;
+    position:fixed;
+    color:yellow;
+    opacity:0.3;
+    align-items: flex-start;
+    vertical-align: middle;
+}
+header{
+    background-color:white;
+    z-index:3;
+}
+
+@media screen and (max-width:750px){
+    .container{
+        margin:0 auto;
+        margin-bottom:15%;
+        display:block;
+        float:none;
+    } 
+}
