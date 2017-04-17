@@ -32,8 +32,11 @@ div{
 	position:absolute;
 	z-index:-1;
 }
+.background-white{
+	background-color:white;
+}
 .background-black{
-	background:black;
+	background-color:black;
 	color:white;
 }
 

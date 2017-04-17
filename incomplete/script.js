@@ -6,18 +6,18 @@ $(document).ready(function(){
 		if(change == "white"){
 			$(this).removeAttr('id');
 			$(this).attr("id","black");
-			$('#background').not().toggleClass('background-black');
-			$('form').not().toggleClass('background-black');
+			$('form').not().toggleClass('background-black','background-white');
+			$('#background').not().toggleClass('background-black','background-white');
 		}else{
 			$(this).removeAttr('id');
 			$(this).attr("id","white");
-			$('#background').not().toggleClass('background-black');
-			$('form').not().toggleClass('background-black');
+			$('form').not().toggleClass('background-black','background-white');
+			$('#background').not().toggleClass('background-black','background-white');
 		}
 	});
 	
 	$("#background").on('click', function() {
-		$('#background').toggleClass('background-black');	$('form').toggleClass('background-black');
+		$('#background').toggleClass('background-black',"background-white");	$('form').toggleClass('background-black','background-white');
 	});
 	
 	
@@ -36,8 +36,9 @@ $(document).ready(function(){
 });
 	function list() {
 		$(this).toggleClass("selected");
-		$('#background').not().toggleClass('background-black');
-		$('form').not().toggleClass('background-black');
+		
+		$('form').not().toggleClass('background-black','background-white');
+		$('#background').not().toggleClass('background-black','background-white');
 	};
 	
 	$("li").click(list);
