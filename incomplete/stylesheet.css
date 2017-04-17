@@ -1,0 +1,90 @@
+html, html, body, div, span, applet, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    a, abbr, acronym, address, big, cite, code,
+    del, dfn, em, img, ins, kbd, q, s, samp,
+    small, strike, strong, sub, sup, tt, var,
+    b, u, i, center,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, embed, 
+    figure, figcaption, footer, header, hgroup, 
+    menu, nav, output, ruby, section, summary,
+    time, mark, audio, video {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+      line-height:1.35;
+  }
+
+div{
+	margin: 0 auto;
+	text-align:center;
+}
+
+/*background*/
+#background{
+	height:auto;
+	width:100%;
+	position:absolute;
+	z-index:-1;
+}
+.background-black{
+	background:black;
+	color:white;
+}
+
+/*text*/
+.title{
+	margin-top:45vh;
+	font-size:50px;
+	margin-bottom:150vh;
+	z-index:2;
+	display:inline-block;
+	color:white;
+}
+#white{
+	color:white;
+}
+#black{
+	color:black;
+}
+
+
+/*list*/
+ul{
+	width:70%;
+	margin:0 auto;
+}
+li{
+	font-size:20px;
+	margin-bottom:.9rem;
+	width:auto;
+	color:white;
+	display:block;
+	
+}
+.selected{
+	color:black;
+}
+
+/*form*/
+form.type{
+	padding-top:50px;
+	padding-bottom:30px;
+	position:absolute;
+	width:100%;
+	text-align:center;
+	background-color:relative;
+	opacity:1;
+}
+label{
+	display:block;
+}
+input{
+	width:60%;
+	text-align:center;
+}
