@@ -1,0 +1,39 @@
+body{
+	background:black;
+	overflow:hidden;
+}
+img{
+	opacity:0;
+	margin:0 auto;
+	width:100%;
+}
+#first, #second, #third, #four{
+	margin-top:23vh;
+	position:absolute;
+}
+
+#final, #text{
+	width:100vw;
+	margin-top:12vh;
+	position:absolute;
+}
+.show{
+	opacity:1;
+	display:block;
+	z-index:3;
+}
+@media (min-width:768px) {
+	#first, #second, #third{
+	margin-top:10vh;
+	position:absolute;
+}
+	#four{
+		margin-top:-4vh;
+		position:absolute;
+	}
+	#final, #text{
+	height:100vh;
+	margin-top:2vh;
+	position:absolute;
+}
+}

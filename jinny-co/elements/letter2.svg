@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 576 449.3" style="enable-background:new 0 0 576 449.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#D2232A;stroke-width:4;}
+	.st2{stroke:#58595B;stroke-miterlimit:10;}
+	.st3{clip-path:url(#SVGID_4_);}
+	.st4{clip-path:url(#SVGID_6_);fill:#282829;}
+	.st5{fill:url(#SVGID_7_);stroke:#58595B;stroke-width:0.5;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#5D595A;stroke-width:0.25;stroke-miterlimit:10;}
+	.st7{stroke:#5D595A;stroke-width:0.5;stroke-miterlimit:10;}
+	.st8{clip-path:url(#SVGID_9_);}
+	.st9{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#FFFFFF;stroke-width:3;}
+	.st11{fill:none;stroke:#6D6E71;stroke-miterlimit:10;}
+	.st12{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st13{clip-path:url(#SVGID_11_);}
+	.st14{clip-path:url(#SVGID_13_);fill:#757679;}
+	.st15{clip-path:url(#SVGID_13_);fill:#727476;}
+	.st16{clip-path:url(#SVGID_13_);fill:#6F7173;}
+	.st17{clip-path:url(#SVGID_13_);fill:#6C6E70;}
+	.st18{clip-path:url(#SVGID_13_);fill:#6A6B6D;}
+	.st19{clip-path:url(#SVGID_13_);fill:#67686B;}
+	.st20{clip-path:url(#SVGID_13_);fill:#656668;}
+	.st21{clip-path:url(#SVGID_13_);fill:#626365;}
+	.st22{clip-path:url(#SVGID_13_);fill:#606163;}
+	.st23{clip-path:url(#SVGID_13_);fill:#5D5E60;}
+	.st24{clip-path:url(#SVGID_13_);fill:#5B5C5E;}
+	.st25{clip-path:url(#SVGID_13_);fill:#58595B;}
+	.st26{clip-path:url(#SVGID_13_);fill:#565759;}
+	.st27{clip-path:url(#SVGID_13_);fill:#545557;}
+	.st28{clip-path:url(#SVGID_13_);fill:#525255;}
+	.st29{clip-path:url(#SVGID_13_);fill:#505052;}
+	.st30{clip-path:url(#SVGID_13_);fill:#4E4E50;}
+	.st31{clip-path:url(#SVGID_13_);fill:#4C4C4E;}
+	.st32{clip-path:url(#SVGID_13_);fill:#4A4A4C;}
+	.st33{clip-path:url(#SVGID_13_);fill:#48484A;}
+	.st34{clip-path:url(#SVGID_13_);fill:#474648;}
+	.st35{clip-path:url(#SVGID_13_);fill:#454546;}
+	.st36{clip-path:url(#SVGID_13_);fill:#434345;}
+	.st37{clip-path:url(#SVGID_13_);fill:#424143;}
+	.st38{clip-path:url(#SVGID_13_);fill:#404041;}
+	.st39{clip-path:url(#SVGID_13_);fill:#3E3D3F;}
+	.st40{clip-path:url(#SVGID_13_);fill:#3B3B3C;}
+	.st41{clip-path:url(#SVGID_13_);fill:#39383A;}
+	.st42{clip-path:url(#SVGID_13_);fill:#363637;}
+	.st43{clip-path:url(#SVGID_13_);fill:#343335;}
+	.st44{clip-path:url(#SVGID_13_);fill:#313132;}
+	.st45{clip-path:url(#SVGID_13_);fill:#2F2F30;}
+	.st46{clip-path:url(#SVGID_13_);fill:#2D2C2E;}
+	.st47{clip-path:url(#SVGID_13_);fill:#2B2A2B;}
+	.st48{clip-path:url(#SVGID_13_);fill:#282829;}
+	.st49{clip-path:url(#SVGID_13_);fill:#262627;}
+	.st50{clip-path:url(#SVGID_13_);fill:#242425;}
+	.st51{clip-path:url(#SVGID_13_);fill:#222223;}
+	.st52{clip-path:url(#SVGID_13_);fill:#202021;}
+	.st53{clip-path:url(#SVGID_13_);fill:#1E1E1F;}
+	.st54{clip-path:url(#SVGID_13_);fill:#1D1C1D;}
+	.st55{clip-path:url(#SVGID_13_);fill:#1B1B1B;}
+	.st56{clip-path:url(#SVGID_13_);fill:#19191A;}
+	.st57{clip-path:url(#SVGID_13_);fill:#171718;}
+	.st58{clip-path:url(#SVGID_13_);fill:#161616;}
+	.st59{clip-path:url(#SVGID_13_);fill:#141415;}
+	.st60{clip-path:url(#SVGID_13_);fill:#131313;}
+	.st61{clip-path:url(#SVGID_13_);fill:#111112;}
+	.st62{clip-path:url(#SVGID_13_);fill:#101010;}
+	.st63{clip-path:url(#SVGID_13_);fill:#0E0E0F;}
+	.st64{clip-path:url(#SVGID_13_);fill:#0D0D0D;}
+	.st65{clip-path:url(#SVGID_13_);fill:#0C0C0C;}
+	.st66{clip-path:url(#SVGID_13_);fill:#0A0A0B;}
+	.st67{clip-path:url(#SVGID_13_);fill:#090909;}
+	.st68{clip-path:url(#SVGID_13_);fill:#080808;}
+	.st69{clip-path:url(#SVGID_13_);fill:#070707;}
+	.st70{clip-path:url(#SVGID_13_);fill:#060606;}
+	.st71{clip-path:url(#SVGID_13_);fill:#050505;}
+	.st72{clip-path:url(#SVGID_13_);fill:#050405;}
+	.st73{clip-path:url(#SVGID_13_);fill:#040404;}
+	.st74{clip-path:url(#SVGID_13_);fill:#030303;}
+	.st75{clip-path:url(#SVGID_13_);fill:#020202;}
+	.st76{clip-path:url(#SVGID_13_);fill:#010101;}
+	.st77{clip-path:url(#SVGID_15_);}
+	.st78{fill:#FFFFFF;}
+	.st79{clip-path:url(#SVGID_17_);}
+	.st80{clip-path:url(#SVGID_19_);}
+	.st81{clip-path:url(#SVGID_21_);}
+	.st82{clip-path:url(#SVGID_23_);}
+	.st83{clip-path:url(#SVGID_25_);}
+	.st84{clip-path:url(#SVGID_27_);}
+	.st85{clip-path:url(#SVGID_29_);}
+	.st86{clip-path:url(#SVGID_31_);}
+	.st87{clip-path:url(#SVGID_33_);}
+	.st88{clip-path:url(#SVGID_35_);}
+	.st89{clip-path:url(#SVGID_37_);}
+	.st90{clip-path:url(#SVGID_39_);}
+	.st91{clip-path:url(#SVGID_41_);}
+	.st92{clip-path:url(#SVGID_43_);}
+	.st93{clip-path:url(#SVGID_45_);}
+	.st94{clip-path:url(#SVGID_47_);}
+	.st95{clip-path:url(#SVGID_49_);}
+	.st96{clip-path:url(#SVGID_51_);fill:#757679;}
+	.st97{clip-path:url(#SVGID_51_);fill:#727476;}
+	.st98{clip-path:url(#SVGID_51_);fill:#6F7173;}
+	.st99{clip-path:url(#SVGID_51_);fill:#6C6E70;}
+	.st100{clip-path:url(#SVGID_51_);fill:#6A6B6D;}
+	.st101{clip-path:url(#SVGID_51_);fill:#67686B;}
+	.st102{clip-path:url(#SVGID_51_);fill:#656668;}
+	.st103{clip-path:url(#SVGID_51_);fill:#626365;}
+	.st104{clip-path:url(#SVGID_51_);fill:#606163;}
+	.st105{clip-path:url(#SVGID_51_);fill:#5D5E60;}
+	.st106{clip-path:url(#SVGID_51_);fill:#5B5C5E;}
+	.st107{clip-path:url(#SVGID_51_);fill:#58595B;}
+	.st108{clip-path:url(#SVGID_51_);fill:#565759;}
+	.st109{clip-path:url(#SVGID_51_);fill:#545557;}
+	.st110{clip-path:url(#SVGID_51_);fill:#525255;}
+	.st111{clip-path:url(#SVGID_51_);fill:#505052;}
+	.st112{clip-path:url(#SVGID_51_);fill:#4E4E50;}
+	.st113{clip-path:url(#SVGID_51_);fill:#4C4C4E;}
+	.st114{clip-path:url(#SVGID_51_);fill:#4A4A4C;}
+	.st115{clip-path:url(#SVGID_51_);fill:#48484A;}
+	.st116{clip-path:url(#SVGID_51_);fill:#474648;}
+	.st117{clip-path:url(#SVGID_51_);fill:#454546;}
+	.st118{clip-path:url(#SVGID_51_);fill:#434345;}
+	.st119{clip-path:url(#SVGID_51_);fill:#424143;}
+	.st120{clip-path:url(#SVGID_51_);fill:#404041;}
+	.st121{clip-path:url(#SVGID_51_);fill:#3E3D3F;}
+	.st122{clip-path:url(#SVGID_51_);fill:#3B3B3C;}
+	.st123{clip-path:url(#SVGID_51_);fill:#39383A;}
+	.st124{clip-path:url(#SVGID_51_);fill:#363637;}
+	.st125{clip-path:url(#SVGID_51_);fill:#343335;}
+	.st126{clip-path:url(#SVGID_51_);fill:#313132;}
+	.st127{clip-path:url(#SVGID_51_);fill:#2F2F30;}
+	.st128{clip-path:url(#SVGID_51_);fill:#2D2C2E;}
+	.st129{clip-path:url(#SVGID_51_);fill:#2B2A2B;}
+	.st130{clip-path:url(#SVGID_51_);fill:#282829;}
+	.st131{clip-path:url(#SVGID_51_);fill:#262627;}
+	.st132{clip-path:url(#SVGID_51_);fill:#242425;}
+	.st133{clip-path:url(#SVGID_51_);fill:#222223;}
+	.st134{clip-path:url(#SVGID_51_);fill:#202021;}
+	.st135{clip-path:url(#SVGID_51_);fill:#1E1E1F;}
+	.st136{clip-path:url(#SVGID_51_);fill:#1D1C1D;}
+	.st137{clip-path:url(#SVGID_51_);fill:#1B1B1B;}
+	.st138{clip-path:url(#SVGID_51_);fill:#19191A;}
+	.st139{clip-path:url(#SVGID_51_);fill:#171718;}
+	.st140{clip-path:url(#SVGID_51_);fill:#161616;}
+	.st141{clip-path:url(#SVGID_51_);fill:#141415;}
+	.st142{clip-path:url(#SVGID_51_);fill:#131313;}
+	.st143{clip-path:url(#SVGID_51_);fill:#111112;}
+	.st144{clip-path:url(#SVGID_51_);fill:#101010;}
+	.st145{clip-path:url(#SVGID_51_);fill:#0E0E0F;}
+	.st146{clip-path:url(#SVGID_51_);fill:#0D0D0D;}
+	.st147{clip-path:url(#SVGID_51_);fill:#0C0C0C;}
+	.st148{clip-path:url(#SVGID_51_);fill:#0A0A0B;}
+	.st149{clip-path:url(#SVGID_51_);fill:#090909;}
+	.st150{clip-path:url(#SVGID_51_);fill:#080808;}
+	.st151{clip-path:url(#SVGID_51_);fill:#070707;}
+	.st152{clip-path:url(#SVGID_51_);fill:#060606;}
+	.st153{clip-path:url(#SVGID_51_);fill:#050505;}
+	.st154{clip-path:url(#SVGID_51_);fill:#050405;}
+	.st155{clip-path:url(#SVGID_51_);fill:#040404;}
+	.st156{clip-path:url(#SVGID_51_);fill:#030303;}
+	.st157{clip-path:url(#SVGID_51_);fill:#020202;}
+	.st158{clip-path:url(#SVGID_51_);fill:#010101;}
+	.st159{clip-path:url(#SVGID_53_);}
+	.st160{clip-path:url(#SVGID_55_);}
+	.st161{clip-path:url(#SVGID_57_);}
+	.st162{clip-path:url(#SVGID_59_);}
+	.st163{clip-path:url(#SVGID_61_);}
+	.st164{clip-path:url(#SVGID_63_);}
+	.st165{clip-path:url(#SVGID_65_);}
+	.st166{clip-path:url(#SVGID_67_);}
+	.st167{clip-path:url(#SVGID_69_);}
+	.st168{clip-path:url(#SVGID_71_);}
+	.st169{clip-path:url(#SVGID_73_);}
+	.st170{clip-path:url(#SVGID_75_);}
+	.st171{clip-path:url(#SVGID_77_);}
+	.st172{clip-path:url(#SVGID_79_);}
+	.st173{clip-path:url(#SVGID_81_);}
+	.st174{clip-path:url(#SVGID_83_);}
+	.st175{clip-path:url(#SVGID_85_);}
+	.st176{clip-path:url(#SVGID_87_);}
+	.st177{clip-path:url(#SVGID_89_);}
+	.st178{fill:#757679;}
+	.st179{fill:#727476;}
+	.st180{fill:#6F7173;}
+	.st181{fill:#6C6E70;}
+	.st182{fill:#6A6B6D;}
+	.st183{fill:#67686B;}
+	.st184{fill:#656668;}
+	.st185{fill:#626365;}
+	.st186{fill:#606163;}
+	.st187{fill:#5D5E60;}
+	.st188{fill:#5B5C5E;}
+	.st189{fill:#58595B;}
+	.st190{fill:#565759;}
+	.st191{fill:#545557;}
+	.st192{fill:#525255;}
+	.st193{fill:#505052;}
+	.st194{fill:#4E4E50;}
+	.st195{fill:#4C4C4E;}
+	.st196{fill:#4A4A4C;}
+	.st197{fill:#48484A;}
+	.st198{fill:#474648;}
+	.st199{fill:#454546;}
+	.st200{fill:#434345;}
+	.st201{fill:#424143;}
+	.st202{fill:#404041;}
+	.st203{fill:#3E3D3F;}
+	.st204{fill:#3B3B3C;}
+	.st205{fill:#39383A;}
+	.st206{fill:#363637;}
+	.st207{fill:#343335;}
+	.st208{fill:#313132;}
+	.st209{fill:#2F2F30;}
+	.st210{fill:#2D2C2E;}
+	.st211{fill:#2B2A2B;}
+	.st212{fill:#282829;}
+	.st213{fill:#262627;}
+	.st214{fill:#242425;}
+	.st215{fill:#222223;}
+	.st216{fill:#202021;}
+	.st217{fill:#1E1E1F;}
+	.st218{fill:#1D1C1D;}
+	.st219{fill:#1B1B1B;}
+	.st220{fill:#19191A;}
+	.st221{fill:#171718;}
+	.st222{fill:#161616;}
+	.st223{fill:#141415;}
+	.st224{fill:#131313;}
+	.st225{fill:#111112;}
+	.st226{fill:#101010;}
+	.st227{fill:#0E0E0F;}
+	.st228{fill:#0D0D0D;}
+	.st229{fill:#0C0C0C;}
+	.st230{fill:#0A0A0B;}
+	.st231{fill:#090909;}
+	.st232{fill:#080808;}
+	.st233{fill:#070707;}
+	.st234{fill:#060606;}
+	.st235{fill:#050505;}
+	.st236{fill:#050405;}
+	.st237{fill:#040404;}
+	.st238{fill:#030303;}
+	.st239{fill:#020202;}
+	.st240{fill:#010101;}
+	.st241{clip-path:url(#SVGID_91_);}
+	.st242{clip-path:url(#SVGID_93_);}
+	.st243{clip-path:url(#SVGID_95_);}
+	.st244{clip-path:url(#SVGID_97_);}
+	.st245{clip-path:url(#SVGID_99_);}
+	.st246{clip-path:url(#SVGID_101_);}
+	.st247{clip-path:url(#SVGID_103_);}
+	.st248{clip-path:url(#SVGID_105_);}
+	.st249{clip-path:url(#SVGID_107_);}
+	.st250{clip-path:url(#SVGID_109_);}
+	.st251{clip-path:url(#SVGID_111_);}
+	.st252{clip-path:url(#SVGID_113_);}
+	.st253{clip-path:url(#SVGID_115_);}
+	.st254{clip-path:url(#SVGID_117_);}
+	.st255{clip-path:url(#SVGID_119_);}
+	.st256{clip-path:url(#SVGID_121_);}
+	.st257{clip-path:url(#SVGID_123_);}
+	.st258{clip-path:url(#SVGID_125_);fill:url(#SVGID_126_);}
+	.st259{clip-path:url(#SVGID_128_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st260{clip-path:url(#SVGID_130_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st261{clip-path:url(#SVGID_130_);fill:none;stroke:#000000;stroke-width:0.824;stroke-miterlimit:10;}
+	.st262{clip-path:url(#SVGID_123_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st263{clip-path:url(#SVGID_132_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st264{clip-path:url(#SVGID_134_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st265{clip-path:url(#SVGID_136_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st266{clip-path:url(#SVGID_138_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st267{clip-path:url(#SVGID_140_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st268{clip-path:url(#SVGID_142_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st269{clip-path:url(#SVGID_144_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st270{clip-path:url(#SVGID_123_);fill:#FFFFFF;}
+	.st271{clip-path:url(#SVGID_146_);fill:#FFFFFF;}
+	.st272{clip-path:url(#SVGID_148_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st273{clip-path:url(#SVGID_150_);fill:#FFFFFF;}
+	.st274{clip-path:url(#SVGID_152_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st275{clip-path:url(#SVGID_154_);fill:#FFFFFF;}
+	.st276{clip-path:url(#SVGID_156_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st277{clip-path:url(#SVGID_158_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st278{clip-path:url(#SVGID_160_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st279{clip-path:url(#SVGID_162_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st280{clip-path:url(#SVGID_164_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;}
+	.st281{clip-path:url(#SVGID_166_);fill:#FFFFFF;}
+	.st282{font-family:'DINNeuzeitGroteskStd-Light';}
+	.st283{font-size:3.6641px;}
+	.st284{font-family:'Krungthep';}
+	.st285{font-size:10.9923px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_46_" x="200.2" y="-392.5" width="241.4" height="125.1"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_46_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<g>
+				<defs>
+					<rect id="SVGID_52_" x="200" y="-517.8" width="243" height="375.7"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_52_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st3">
+					<path class="st78" d="M550.4,185H221.1v-568.9l164.7-164.7l0.3,0.3l164.4,164.4V185z M222,184.1h327.5v-567.6L385.8-547.2
+						L222-383.5V184.1z"/>
+				</g>
+			</g>
+			<g>
+				<defs>
+					<rect id="SVGID_62_" x="200" y="-517.8" width="243" height="375.7"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_62_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_6_);">
+					<path class="st78" d="M493.2,63.9h-66.1v-232.1l0.1-0.1l32.9-32.9l33.1,33.1V63.9z M428,62.9h64.3v-230.8L460.1-200L428-167.9
+						V62.9z"/>
+				</g>
+			</g>
+			<g>
+				<defs>
+					<rect id="SVGID_72_" x="200" y="-517.8" width="243" height="375.7"/>
+				</defs>
+				<clipPath id="SVGID_7_">
+					<use xlink:href="#SVGID_72_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_7_);">
+					<path class="st78" d="M346,2h-59.1v-207.1l0.1-0.1l29.4-29.4l29.5,29.5V2z M287.8,1.1h57.2v-205.8l-28.6-28.6l-28.6,28.6V1.1z"
+						/>
+				</g>
+			</g>
+			<g>
+				<defs>
+					<rect id="SVGID_78_" x="200" y="-517.8" width="243" height="375.7"/>
+				</defs>
+				<clipPath id="SVGID_9_">
+					<use xlink:href="#SVGID_78_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st8">
+					<path class="st78" d="M297.3,12.4h-54.6v-191.3l0.1-0.1l27.2-27.2l27.3,27.3V12.4z M243.6,11.5h52.8v-190L270-204.8l-26.4,26.4
+						V11.5z"/>
+				</g>
+			</g>
+			<g>
+				<defs>
+					<rect id="SVGID_80_" x="200" y="-517.8" width="243" height="375.7"/>
+				</defs>
+				<clipPath id="SVGID_11_">
+					<use xlink:href="#SVGID_80_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st13">
+					<path class="st78" d="M258.7,55.8h-69v-242.3l0.1-0.1l34.4-34.4l34.5,34.5V55.8z M190.7,54.9h67.1v-241l-33.6-33.6l-33.6,33.6
+						V54.9z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<polygon id="SVGID_84_" points="332.2,-184.7 90.9,-184.7 200.3,-267.1 441.6,-267.1 			"/>
+		</defs>
+		<clipPath id="SVGID_13_">
+			<use xlink:href="#SVGID_84_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_13_);">
+			<g>
+				<defs>
+					<polygon id="SVGID_90_" points="89.5,-184.5 332.5,-184.5 660.9,-431.9 417.9,-431.9 					"/>
+				</defs>
+				<clipPath id="SVGID_15_">
+					<use xlink:href="#SVGID_90_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st77">
+					<g>
+						<path class="st78" d="M154,31h-329.3l497.4-374.8l308.6-108.5l0,0.2l20.6,108.3L154,31z M-173.6,30.3h327.5l496.2-373.9
+							l-20.5-107.9L322.7-343.6L-173.6,30.3z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_122_" x="175.2" y="39.7" width="240" height="369.8"/>
+	</defs>
+	<clipPath id="SVGID_17_">
+		<use xlink:href="#SVGID_122_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_124_" x="176.6" y="39.7" width="237.6" height="367.2"/>
+		</defs>
+		<clipPath id="SVGID_19_">
+			<use xlink:href="#SVGID_124_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="-9.583167e-02" y1="-537.8398" x2="0.2706" y2="-537.8398" gradientTransform="matrix(0 -1008.8754 -1008.8754 0 -542317.9375 221.2395)">
+			<stop  offset="0" style="stop-color:#757679"/>
+			<stop  offset="7.338065e-02" style="stop-color:#646567"/>
+			<stop  offset="0.1774" style="stop-color:#4F5052"/>
+			<stop  offset="0.2962" style="stop-color:#3D3C3E"/>
+			<stop  offset="0.4366" style="stop-color:#212122"/>
+			<stop  offset="0.6192" style="stop-color:#090909"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<rect x="176.6" y="39.7" style="clip-path:url(#SVGID_19_);fill:url(#SVGID_21_);" width="237.6" height="367.2"/>
+	</g>
+	<polygon class="st79" points="329.8,39.7 278.6,90.9 197.8,171.8 197.8,171.8 197.8,409.6 415.8,409.6 415.8,66.5 389.1,39.7 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_127_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_23_">
+			<use xlink:href="#SVGID_127_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_23_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			521.1,171.8 359.4,10.1 278.6,90.9 197.8,171.8 197.8,731.2 521.1,731.2 		"/>
+	</g>
+	<polygon class="st79" points="329.8,39.7 198.5,171 359.4,331.9 415.8,275.6 415.8,66.5 389.1,39.7 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_129_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_25_">
+			<use xlink:href="#SVGID_129_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="245.7" y="57.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -15.647 304.2581)" style="clip-path:url(#SVGID_25_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="227.6" height="227.6"/>
+		
+			<rect x="175.2" y="37" style="clip-path:url(#SVGID_25_);fill:none;stroke:#000000;stroke-width:0.824;stroke-miterlimit:10;" width="239.2" height="391.5"/>
+	</g>
+	<polygon class="st79" points="271.1,228.2 253.5,245.8 253.5,301.4 253.5,305.5 253.5,370.7 288.7,370.7 288.7,305.5 288.7,301.4 
+		288.7,245.8 	"/>
+	<polygon style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+		271.1,228.2 253.5,245.8 253.5,301.4 253.5,305.5 253.5,370.7 288.7,370.7 288.7,305.5 288.7,301.4 288.7,245.8 	"/>
+	
+		<rect x="258.7" y="233.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -94.3701 263.7058)" class="st79" width="24.9" height="24.9"/>
+	
+		<rect x="258.7" y="233.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -94.3701 263.7058)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="24.9" height="24.9"/>
+	<polygon class="st79" points="228.1,193.9 208.5,213.5 208.5,279.9 247.7,279.9 247.7,213.5 	"/>
+	<polygon style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+		228.1,193.9 208.5,213.5 208.5,279.9 247.7,279.9 247.7,213.5 	"/>
+	
+		<rect x="214.3" y="199.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -84.1392 223.8183)" class="st79" width="27.7" height="27.7"/>
+	
+		<rect x="214.3" y="199.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -84.1392 223.8183)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="27.7" height="27.7"/>
+	<polygon class="st79" points="245.5,261 219.6,286.9 219.6,374.8 271.3,374.8 271.3,286.9 	"/>
+	<polygon style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="245.5,261 
+		219.6,286.9 219.6,374.8 271.3,374.8 271.3,286.9 	"/>
+	
+		<rect x="227.2" y="268.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -130.9895 257.5986)" class="st79" width="36.6" height="36.6"/>
+	
+		<rect x="227.2" y="268.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -130.9895 257.5986)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="36.6" height="36.6"/>
+	<polygon class="st79" points="395.8,322.7 395.8,366.8 395.8,370.1 395.8,409.6 415.8,409.6 415.8,314.8 409.7,308.7 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_131_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_27_">
+			<use xlink:href="#SVGID_131_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_27_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			409.7,308.7 395.8,322.7 395.8,366.8 395.8,370.1 395.8,421.9 423.7,421.9 423.7,370.1 423.7,366.8 423.7,322.7 		"/>
+	</g>
+	<polygon class="st79" points="395.8,322.7 409.7,336.6 415.8,330.5 415.8,314.8 409.7,308.7 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_133_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_29_">
+			<use xlink:href="#SVGID_133_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="399.9" y="312.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -108.1418 384.2276)" style="clip-path:url(#SVGID_29_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="19.8" height="19.8"/>
+	</g>
+	<polygon class="st79" points="367.4,355.2 367.4,409.6 409.9,409.6 409.9,355.2 388.6,334 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_135_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_31_">
+			<use xlink:href="#SVGID_135_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_31_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			388.6,334 367.4,355.2 367.4,422.3 367.4,427.3 367.4,506.1 409.9,506.1 409.9,427.3 409.9,422.3 409.9,355.2 		"/>
+	</g>
+	
+		<rect x="373.6" y="340.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -137.3293 378.851)" class="st79" width="30" height="30"/>
+	
+		<rect x="373.6" y="340.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -137.3293 378.851)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="30" height="30"/>
+	<polygon class="st79" points="400.6,384 400.6,409.6 415.8,409.6 415.8,368.7 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_137_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_33_">
+			<use xlink:href="#SVGID_137_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_33_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			432.7,351.9 400.6,384 400.6,485.4 400.6,493 400.6,611.9 464.8,611.9 464.8,493 464.8,485.4 464.8,384 		"/>
+	</g>
+	<polygon class="st79" points="400.6,384 415.8,399.2 415.8,368.7 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_139_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_35_">
+			<use xlink:href="#SVGID_139_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="410" y="361.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -144.7974 418.4102)" style="clip-path:url(#SVGID_35_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="45.4" height="45.4"/>
+	</g>
+	<polygon class="st79" points="176.6,237.4 176.6,399 212.2,399 212.2,330.1 212.2,318.2 212.2,249.4 188.4,225.6 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_141_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_37_">
+			<use xlink:href="#SVGID_141_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_37_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			188.4,225.6 164.6,249.4 164.6,318.2 164.6,330.1 164.6,399 212.2,399 212.2,330.1 212.2,318.2 212.2,249.4 		"/>
+	</g>
+	<polygon class="st79" points="176.6,237.4 176.6,261.4 188.4,273.2 212.2,249.4 188.4,225.6 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_143_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_39_">
+			<use xlink:href="#SVGID_143_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="171.6" y="232.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -121.1541 206.2732)" style="clip-path:url(#SVGID_39_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="33.6" height="33.6"/>
+	</g>
+	<polygon style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" points="176.6,237.5 176.6,242.5 198.2,264.1 203.6,258.7 179.5,234.7 	
+		"/>
+	<polygon style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" points="230.3,230.8 210.8,211.3 211.7,210.3 234.6,209.1 223.8,198.3 
+		225.9,196.1 245.5,215.6 244.5,216.6 221.6,217.8 232.4,228.7 	"/>
+	<polygon class="st79" points="213.5,264.8 184.8,293.5 184.8,391 242.2,391 242.2,293.5 	"/>
+	<polygon style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+		213.5,264.8 184.8,293.5 184.8,391 242.2,391 242.2,293.5 	"/>
+	
+		<rect x="193.2" y="273.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -144.9918 236.8998)" class="st79" width="40.6" height="40.6"/>
+	
+		<rect x="193.2" y="273.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -144.9918 236.8998)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="40.6" height="40.6"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_145_" x="176.6" y="16.7" width="303.7" height="392.9"/>
+		</defs>
+		<clipPath id="SVGID_41_">
+			<use xlink:href="#SVGID_145_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_41_);fill:#FFFFFF;" d="M202.3,275.9l6.4-6.4l17.8,17.8c3,3,4.5,6.6,4.5,10.9
+			c0,4.3-1.5,7.9-4.5,10.9l-8.2,8.2l-28.7-28.7l6.4-6.4l25.5,25.5l3.2-3.2c0.9-0.9,1.3-2,1.3-3.2c0-1.2-0.4-2.3-1.3-3.2L202.3,275.9
+			z"/>
+	</g>
+	<polygon class="st79" points="250.2,294.9 250.2,372 250.2,377.8 250.2,409.6 299,409.6 299,377.8 299,372 299,294.9 274.6,270.5 	
+		"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_147_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_43_">
+			<use xlink:href="#SVGID_147_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_43_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			274.6,270.5 250.2,294.9 250.2,372 250.2,377.8 250.2,468.3 299,468.3 299,377.8 299,372 299,294.9 		"/>
+	</g>
+	
+		<rect x="257.3" y="277.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -128.1002 280.5292)" class="st79" width="34.5" height="34.5"/>
+	
+		<rect x="257.3" y="277.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -128.1002 280.5292)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="34.5" height="34.5"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_149_" x="176.6" y="16.7" width="303.7" height="392.9"/>
+		</defs>
+		<clipPath id="SVGID_45_">
+			<use xlink:href="#SVGID_149_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_45_);fill:#FFFFFF;" d="M270.6,296.3l5.4-5.4l-5.4-5.4c-0.7-0.7-1.6-1.1-2.7-1.1
+			c-1.1,0-2,0.4-2.7,1.1c-0.7,0.7-1.1,1.6-1.1,2.7c0,1.1,0.4,2,1.1,2.7L270.6,296.3z M278.6,315.1l-18.9-18.9
+			c-1.5-1.5-2.2-3.3-2.2-5.4s0.7-3.9,2.2-5.4l5.4-5.4c1.5-1.5,3.3-2.2,5.4-2.2c2.1,0,3.9,0.7,5.4,2.2l18.9,18.9l-5.4,5.4l-10.8-10.8
+			l-5.4,5.4l10.8,10.8L278.6,315.1z"/>
+	</g>
+	<polygon class="st79" points="262.6,347.8 262.6,409.6 319.8,409.6 319.8,347.8 291.2,319.1 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_151_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_47_">
+			<use xlink:href="#SVGID_151_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_47_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			291.2,319.1 262.6,347.8 262.6,438.2 262.6,444.9 262.6,551 319.8,551 319.8,444.9 319.8,438.2 319.8,347.8 		"/>
+	</g>
+	
+		<rect x="271" y="327.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -160.609 307.7826)" class="st79" width="40.5" height="40.5"/>
+	
+		<rect x="271" y="327.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -160.609 307.7826)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="40.5" height="40.5"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_153_" x="176.6" y="16.7" width="303.7" height="392.9"/>
+		</defs>
+		<clipPath id="SVGID_49_">
+			<use xlink:href="#SVGID_153_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_49_);fill:#FFFFFF;" d="M280.4,343.1l15.5,15.5c0.8,0.8,1.9,1.3,3.1,1.3c1.2,0,2.3-0.4,3.1-1.3
+			c0.9-0.9,1.3-1.9,1.3-3.1c0-1.2-0.4-2.2-1.3-3.1l-15.5-15.5c-0.8-0.8-1.9-1.3-3.1-1.2c-1.2,0-2.3,0.4-3.1,1.3
+			c-0.9,0.9-1.3,1.9-1.3,3.1C279.1,341.2,279.5,342.3,280.4,343.1 M274.2,336.9l6.2-6.2c1.7-1.7,3.8-2.5,6.2-2.5
+			c2.4,0,4.5,0.8,6.2,2.5l15.5,15.5c1.7,1.7,2.5,3.7,2.5,6.2c0,2.4-0.8,4.5-2.5,6.2l-6.2,6.2c-1.7,1.7-3.8,2.5-6.2,2.5
+			c-2.4,0-4.5-0.8-6.2-2.5l-15.5-15.5c-1.7-1.7-2.5-3.8-2.5-6.2C271.6,340.7,272.5,338.6,274.2,336.9"/>
+	</g>
+	<polygon class="st79" points="305.9,389.5 305.9,409.6 349,409.6 349,389.5 327.5,367.9 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_155_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_51_">
+			<use xlink:href="#SVGID_155_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_51_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			327.5,367.9 305.9,389.5 305.9,462.8 349,462.8 349,389.5 		"/>
+	</g>
+	<polygon class="st79" points="305.9,389.5 326,409.6 329,409.6 349,389.5 327.5,367.9 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_157_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_53_">
+			<use xlink:href="#SVGID_157_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="312.2" y="374.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -179.4905 345.6309)" style="clip-path:url(#SVGID_53_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="30.5" height="30.5"/>
+	</g>
+	<polygon style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" points="329.9,408.4 308.5,387.1 309.6,386.1 334.6,384.8 322.7,372.9 
+		325.1,370.6 346.4,391.9 345.4,393 320.4,394.2 332.2,406.1 	"/>
+	<polygon class="st79" points="219,373.6 219,409.6 271.9,409.6 271.9,373.6 245.5,347.2 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_159_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_55_">
+			<use xlink:href="#SVGID_159_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_55_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			245.5,347.2 219,373.6 219,457.1 219,463.3 219,561.2 271.9,561.2 271.9,463.3 271.9,457.1 271.9,373.6 		"/>
+	</g>
+	
+		<rect x="226.8" y="354.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -192.2744 282.9837)" class="st79" width="37.4" height="37.4"/>
+	
+		<rect x="226.8" y="354.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -192.2744 282.9837)" style="clip-path:url(#SVGID_17_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="37.4" height="37.4"/>
+	
+		<rect x="241.4" y="355.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -192.2744 282.9838)" style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" width="8.1" height="36.5"/>
+	<polygon class="st79" points="176.6,356.4 176.6,409.6 234,409.6 234,366.1 200.5,332.6 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_161_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_57_">
+			<use xlink:href="#SVGID_161_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_57_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" points="
+			200.5,332.6 167,366.1 167,471.9 167,479.9 167,604 234,604 234,479.9 234,471.9 234,366.1 		"/>
+	</g>
+	<polygon class="st79" points="176.6,356.4 176.6,375.8 200.5,399.6 234,366.1 200.5,332.6 	"/>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_163_" x="176.6" y="39.7" width="239.2" height="369.8"/>
+		</defs>
+		<clipPath id="SVGID_59_">
+			<use xlink:href="#SVGID_163_"  style="overflow:visible;"/>
+		</clipPath>
+		
+			<rect x="176.8" y="342.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -200.1607 248.9856)" style="clip-path:url(#SVGID_59_);fill:none;stroke:#FFFFFF;stroke-width:2.473;stroke-miterlimit:10;" width="47.4" height="47.4"/>
+	</g>
+	<g class="st79">
+		<defs>
+			<rect id="SVGID_165_" x="176.6" y="16.7" width="303.7" height="392.9"/>
+		</defs>
+		<clipPath id="SVGID_61_">
+			<use xlink:href="#SVGID_165_"  style="overflow:visible;"/>
+		</clipPath>
+		<path style="clip-path:url(#SVGID_61_);fill:#FFFFFF;" d="M200.5,347.5l-3.7,3.7c-2.8-2.1-5.2-2.2-7.2-0.2c-1.3,1.3-2,2.6-2,3.9
+			c0,1.3,0.6,2.5,1.8,3.8c0.9,0.9,2.2,1.4,3.7,1.5l16.6,1c3.1,0.2,5.5,1.2,7.4,3.1l1.9,1.9c2,2,3,4.5,3,7.4c0,2.9-1,5.4-3,7.4
+			l-3.7,3.7c-2.4,2.4-4.9,3.7-7.4,3.7c-2.5,0-4.9-1.2-7.4-3.7l3.7-3.7c0.2,0.3,0.4,0.5,0.6,0.6c1,1,2.2,1.4,3.4,1.1
+			c1.3-0.3,2.4-0.8,3.3-1.8c1.3-1.3,1.9-2.6,1.9-3.8c-0.1-1.2-0.7-2.4-1.9-3.6c-0.9-0.9-2.2-1.4-3.7-1.5l-16.6-0.9
+			c-3.1-0.2-5.5-1.2-7.4-3.1L182,366c-2-2-3-4.5-3-7.4c0-2.9,1-5.4,3-7.4l3.7-3.7C190.3,342.9,195.2,342.9,200.5,347.5"/>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 223.5637 172.4855)"><tspan x="0" y="0" class="st78 st282 st283">Siri and</tspan><tspan x="12.8" y="0" class="st78 st282 st283"> </tspan><tspan x="13.6" y="0" class="st78 st282 st283">Al</tspan><tspan x="17.2" y="0" class="st78 st282 st283">e</tspan><tspan x="19.5" y="0" class="st78 st282 st283">xa seemed harmless when th</tspan><tspan x="70.2" y="0" class="st78 st282 st283">e</tspan><tspan x="72.4" y="0" class="st78 st282 st283">y made </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 226.9332 175.8556)"><tspan x="0" y="0" class="st78 st282 st283">their debut. Humans ha</tspan><tspan x="40.2" y="0" class="st78 st282 st283">v</tspan><tspan x="42.3" y="0" class="st78 st282 st283">e become so dependent </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 230.3019 179.2238)"><tspan x="0" y="0" class="st78 st282 st283">on technolo</tspan><tspan x="21" y="0" class="st78 st282 st283">g</tspan><tspan x="23.4" y="0" class="st78 st282 st283">y doing a majority of their </tspan><tspan x="69.3" y="0" class="st78 st282 st283">r</tspan><tspan x="70.5" y="0" class="st78 st282 st283">outine </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 233.6687 182.5911)"><tspan x="0" y="0" class="st78 st282 st283">tasks</tspan><tspan x="8.5" y="0" class="st78 st282 st283">,</tspan><tspan x="9.3" y="0" class="st78 st282 st283"> but mankind is in for a rude a</tspan><tspan x="60.4" y="0" class="st78 st282 st283">w</tspan><tspan x="63.5" y="0" class="st78 st282 st283">a</tspan><tspan x="65.6" y="0" class="st78 st282 st283">k</tspan><tspan x="67.4" y="0" class="st78 st282 st283">enin</tspan><tspan x="74.8" y="0" class="st78 st282 st283">g</tspan><tspan x="77.2" y="0" class="st78 st282 st283">. </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 237.0375 185.9592)"><tspan x="0" y="0" class="st78 st282 st283">Al</tspan><tspan x="3.6" y="0" class="st78 st282 st283">e</tspan><tspan x="5.8" y="0" class="st78 st282 st283">xa</tspan><tspan x="10" y="0" class="st78 st282 st283">,</tspan><tspan x="10.9" y="0" class="st78 st282 st283"> Siri</tspan><tspan x="17" y="0" class="st78 st282 st283">,</tspan><tspan x="17.8" y="0" class="st78 st282 st283"> and countless other d</tspan><tspan x="56.4" y="0" class="st78 st282 st283">e</tspan><tspan x="58.6" y="0" class="st78 st282 st283">vices ha</tspan><tspan x="72.7" y="0" class="st78 st282 st283">v</tspan><tspan x="74.8" y="0" class="st78 st282 st283">e </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 240.4057 189.3278)"><tspan x="0" y="0" class="st78 st282 st283">n</tspan><tspan x="2.1" y="0" class="st78 st282 st283">o</tspan><tspan x="4.5" y="0" class="st78 st282 st283">w encrypted </tspan><tspan x="27.7" y="0" class="st78 st282 st283">r</tspan><tspan x="28.9" y="0" class="st78 st282 st283">obots with uniqu</tspan><tspan x="58" y="0" class="st78 st282 st283">e</tspan><tspan x="60.1" y="0" class="st78 st282 st283">,</tspan><tspan x="60.9" y="0" class="st78 st282 st283"> top sec</tspan><tspan x="74.9" y="0" class="st78 st282 st283">r</tspan><tspan x="76.1" y="0" class="st78 st282 st283">et </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 243.773 192.6946)"><tspan x="0" y="0" class="st78 st282 st283">intelli</tspan><tspan x="9" y="0" class="st78 st282 st283">g</tspan><tspan x="11.5" y="0" class="st78 st282 st283">ence that is lethal for the </tspan><tspan x="54.5" y="0" class="st78 st282 st283">w</tspan><tspan x="57.6" y="0" class="st78 st282 st283">orld as </tspan><tspan x="70.4" y="0" class="st78 st282 st283">w</tspan><tspan x="73.5" y="0" class="st78 st282 st283">e kn</tspan><tspan x="80.8" y="0" class="st78 st282 st283">o</tspan><tspan x="83.2" y="0" class="st78 st282 st283">w </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 247.1425 196.0647)"><tspan x="0" y="0" class="st78 st282 st283">it. Our fear of technolo</tspan><tspan x="39.2" y="0" class="st78 st282 st283">g</tspan><tspan x="41.7" y="0" class="st78 st282 st283">y outsmarting mankind </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 250.5098 199.4315)"><tspan x="0" y="0" class="st78 st282 st283">has arri</tspan><tspan x="12.4" y="0" class="st78 st282 st283">v</tspan><tspan x="14.5" y="0" class="st78 st282 st283">e</tspan><tspan x="16.8" y="0" class="st78 st282 st283">d</tspan><tspan x="19.2" y="0" class="st78 st282 st283">.</tspan><tspan x="20.1" y="0" class="st78 st282 st283"> </tspan><tspan x="20.9" y="0" class="st78 st282 st283">T</tspan><tspan x="22.8" y="0" class="st78 st282 st283">he </tspan><tspan x="28.2" y="0" class="st78 st282 st283">y</tspan><tspan x="30.2" y="0" class="st78 st282 st283">ear is 2050 and </tspan><tspan x="56.6" y="0" class="st78 st282 st283">r</tspan><tspan x="57.9" y="0" class="st78 st282 st283">obots a</tspan><tspan x="71.2" y="0" class="st78 st282 st283">r</tspan><tspan x="72.4" y="0" class="st78 st282 st283">e about </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 253.8778 202.8004)"><tspan x="0" y="0" class="st78 st282 st283">to ta</tspan><tspan x="7.7" y="0" class="st78 st282 st283">k</tspan><tspan x="9.6" y="0" class="st78 st282 st283">e cha</tspan><tspan x="19" y="0" class="st78 st282 st283">r</tspan><tspan x="20.2" y="0" class="st78 st282 st283">g</tspan><tspan x="22.7" y="0" class="st78 st282 st283">e once and for all.</tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 258.8014 207.7238)"><tspan x="0" y="0" class="st78 st282 st283">What started o</tspan><tspan x="25.5" y="0" class="st78 st282 st283">f</tspan><tspan x="26.5" y="0" class="st78 st282 st283">f as</tspan><tspan x="32.4" y="0" class="st78 st282 st283"> </tspan><tspan x="33.2" y="0" class="st78 st282 st283">“inn</tspan><tspan x="40.2" y="0" class="st78 st282 st283">ov</tspan><tspan x="44.7" y="0" class="st78 st282 st283">ati</tspan><tspan x="48.7" y="0" class="st78 st282 st283">v</tspan><tspan x="50.8" y="0" class="st78 st282 st283">e</tspan><tspan x="53.1" y="0" class="st78 st282 st283">”</tspan><tspan x="54.9" y="0" class="st78 st282 st283"> is n</tspan><tspan x="61.5" y="0" class="st78 st282 st283">o</tspan><tspan x="63.9" y="0" class="st78 st282 st283">w </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 262.1684 211.0908)"><tspan x="0" y="0" class="st78 st282 st283">th</tspan><tspan x="3.2" y="0" class="st78 st282 st283">r</tspan><tspan x="4.4" y="0" class="st78 st282 st283">eatening mankin</tspan><tspan x="33.2" y="0" class="st78 st282 st283">d</tspan><tspan x="35.6" y="0" class="st78 st282 st283">,</tspan><tspan x="36.4" y="0" class="st78 st282 st283"> for </tspan><tspan x="43.2" y="0" class="st78 st282 st283">w</tspan><tspan x="46.3" y="0" class="st78 st282 st283">e a</tspan><tspan x="51.6" y="0" class="st78 st282 st283">r</tspan><tspan x="52.9" y="0" class="st78 st282 st283">e incapable of </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 265.5369 214.4592)"><tspan x="0" y="0" class="st78 st282 st283">surpassing technological thinkin</tspan><tspan x="55.2" y="0" class="st78 st282 st283">g</tspan><tspan x="57.5" y="0" class="st78 st282 st283">.</tspan><tspan x="58.5" y="0" class="st78 st282 st283"> </tspan><tspan x="59.3" y="0" class="st78 st282 st283">T</tspan><tspan x="61.2" y="0" class="st78 st282 st283">he epidemic </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 268.9053 217.8277)"><tspan x="0" y="0" class="st78 st282 st283">started o</tspan><tspan x="15.5" y="0" class="st78 st282 st283">f</tspan><tspan x="16.6" y="0" class="st78 st282 st283">f in the outskirts of Queens</tspan><tspan x="62.5" y="0" class="st78 st282 st283">,</tspan><tspan x="63.4" y="0" class="st78 st282 st283"> the bo</tspan><tspan x="75.8" y="0" class="st78 st282 st283">r</tspan><tspan x="77" y="0" class="st78 st282 st283">ough </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 272.2738 221.196)"><tspan x="0" y="0" class="st78 st282 st283">that </tspan><tspan x="7.3" y="0" class="st78 st282 st283">r</tspan><tspan x="8.6" y="0" class="st78 st282 st283">ecei</tspan><tspan x="16" y="0" class="st78 st282 st283">v</tspan><tspan x="18" y="0" class="st78 st282 st283">es as much l</tspan><tspan x="39" y="0" class="st78 st282 st283">o</tspan><tspan x="41.4" y="0" class="st78 st282 st283">v</tspan><tspan x="43.5" y="0" class="st78 st282 st283">e as Staten Islan</tspan><tspan x="70.9" y="0" class="st78 st282 st283">d</tspan><tspan x="73.3" y="0" class="st78 st282 st283">.</tspan><tspan x="74.2" y="0" class="st78 st282 st283"> </tspan><tspan x="75.1" y="0" class="st78 st282 st283">A man </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 275.6423 224.5644)"><tspan x="0" y="0" class="st78 st282 st283">w</tspan><tspan x="3.1" y="0" class="st78 st282 st283">as asking</tspan><tspan x="19" y="0" class="st78 st282 st283"> </tspan><tspan x="19.8" y="0" class="st78 st282 st283">Al</tspan><tspan x="23.4" y="0" class="st78 st282 st283">e</tspan><tspan x="25.7" y="0" class="st78 st282 st283">xa to play a son</tspan><tspan x="53.3" y="0" class="st78 st282 st283">g</tspan><tspan x="55.6" y="0" class="st78 st282 st283">,</tspan><tspan x="56.4" y="0" class="st78 st282 st283"> when</tspan><tspan x="67" y="0" class="st78 st282 st283"> </tspan><tspan x="67.8" y="0" class="st78 st282 st283">Al</tspan><tspan x="71.4" y="0" class="st78 st282 st283">e</tspan><tspan x="73.7" y="0" class="st78 st282 st283">xa </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 279.0107 227.9328)"><tspan x="0" y="0" class="st78 st282 st283">short-ci</tspan><tspan x="12.5" y="0" class="st78 st282 st283">r</tspan><tspan x="13.8" y="0" class="st78 st282 st283">cuite</tspan><tspan x="22" y="0" class="st78 st282 st283">d</tspan><tspan x="24.4" y="0" class="st78 st282 st283">.</tspan><tspan x="25.4" y="0" class="st78 st282 st283"> </tspan><tspan x="26.2" y="0" class="st78 st282 st283">T</tspan><tspan x="28.1" y="0" class="st78 st282 st283">he man </tspan><tspan x="41.9" y="0" class="st78 st282 st283">w</tspan><tspan x="45" y="0" class="st78 st282 st283">or</tspan><tspan x="48.8" y="0" class="st78 st282 st283">k</tspan><tspan x="50.6" y="0" class="st78 st282 st283">ed in engineering </tspan></text>
+	</g>
+	<path style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" d="M282.6,229.3c-0.2-0.2-0.5,0-0.7,0.1c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1
+		c0.1-0.3,0.3-0.5,0.4-0.6c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2l-0.1-0.1c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1
+		c-0.2-0.2-0.3-0.7,0.1-1c0.1-0.1,0.3-0.3,0.6-0.3L282.6,229.3z M282.4,229.9c-0.3,0.3-0.2,0.5-0.1,0.6c0.1,0.1,0.4,0.2,0.6-0.1
+		c0.3-0.3,0.2-0.5,0.1-0.6C282.9,229.6,282.7,229.6,282.4,229.9z M284.2,228c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8
+		l0.8,0.8l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L284.2,228z
+		 M284.7,225l0.2-0.2l2,2l-0.2,0.2l-0.2-0.2l0,0c0,0.2,0,0.5-0.3,0.7c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4
+		c0.2-0.2,0.5-0.3,0.8-0.3l0,0L284.7,225z M285.1,226.3c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1
+		C285.8,226,285.3,226,285.1,226.3z M286.4,224l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1
+		l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L286.4,224z M288.9,223.3
+		c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L288.9,223.3z M289.6,221.4c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4s-1,0.4-1.4,0
+		C289.2,222.4,289.1,221.8,289.6,221.4z M289.8,222.5c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1c-0.3-0.3-0.7-0.3-1,0
+		C289.5,221.8,289.5,222.3,289.8,222.5z M292.7,220.6L292.7,220.6c0,0.2,0,0.4-0.2,0.6c-0.3,0.3-0.7,0.4-1,0l-0.9-0.9l0.2-0.2
+		l0.8,0.8c0.2,0.2,0.5,0.3,0.7,0.1c0.2-0.2,0.2-0.5-0.1-0.8l-0.8-0.8l0.2-0.2l1.3,1.3l-0.2,0.2L292.7,220.6z M293.3,217.7l0.2-0.2
+		l1.2,1.2c0.5,0.5,0.5,1,0,1.5c-0.2,0.2-0.5,0.4-0.9,0.3l0-0.3c0.3,0,0.5-0.1,0.7-0.2c0.4-0.4,0.3-0.7,0-1l-0.1-0.1l0,0
+		c0,0.3,0,0.5-0.3,0.7c-0.5,0.5-1.1,0.3-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.8-0.3l0,0L293.3,217.7z M293,218.4
+		c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1C293.7,218.1,293.3,218.1,293,218.4z M295.4,216.7
+		c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L295.4,216.7z M295.1,215.2l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8
+		c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L295.1,215.2z M298.3,213.8c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0
+		c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L298.3,213.8z M300.7,212.5c0,0.4-0.1,0.7-0.3,0.9
+		c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6
+		L300.7,212.5z M300,212.1c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L300,212.1z M301.9,209.7c-0.2,0-0.3,0.1-0.4,0.2
+		c-0.2,0.2-0.3,0.6,0.1,0.9c0.3,0.3,0.7,0.3,0.9,0c0.1-0.1,0.2-0.3,0.2-0.4l0.3,0c0,0.2-0.1,0.5-0.3,0.6c-0.4,0.4-1,0.4-1.4,0
+		c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.6-0.3L301.9,209.7z M302.7,208.3c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4
+		c-0.4,0.4-1,0.4-1.4,0C302.3,209.3,302.2,208.7,302.7,208.3z M302.9,209.5c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1
+		c-0.3-0.3-0.7-0.3-1,0C302.6,208.7,302.6,209.2,302.9,209.5z M305.8,207.5L305.8,207.5c0,0.2,0,0.4-0.2,0.6c-0.3,0.3-0.7,0.4-1,0
+		l-0.9-0.9l0.2-0.2l0.8,0.8c0.2,0.2,0.5,0.3,0.7,0.1c0.2-0.2,0.2-0.5-0.1-0.8l-0.8-0.8l0.2-0.2l1.3,1.3l-0.2,0.2L305.8,207.5z
+		 M304.8,204.9l1.5,1.5c0.2,0.2,0.3,0.1,0.4,0.1l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0l-1.6-1.6L304.8,204.9z
+		 M306.4,203.3l0.2-0.2l2,2l-0.2,0.2l-0.2-0.2l0,0c0,0.2,0,0.5-0.3,0.7c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4
+		c0.2-0.2,0.5-0.3,0.8-0.3l0,0L306.4,203.3z M306.7,204.6c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1
+		C307.4,204.4,307,204.4,306.7,204.6z M308.2,202.4c-0.3-0.3-0.2-0.6,0-0.9l0.2,0.2l0,0c-0.1,0.1-0.1,0.3,0,0.4l0.2,0.2l0.2-0.2
+		l0.2,0.2l-0.2,0.2l1.1,1.1l-0.2,0.2l-1.1-1.1l-0.2,0.2l-0.2-0.2l0.2-0.2L308.2,202.4z M308.6,201.2c0.1-0.1,0.2-0.1,0.3,0
+		c0.1,0.1,0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0C308.5,201.5,308.5,201.3,308.6,201.2z M309,201.9l0.2-0.2l1.3,1.3l-0.2,0.2
+		L309,201.9z M310.6,200.4l0.3-0.3l0.1,1.2l1.2,0.1l-0.3,0.3l-0.9-0.1l0.1,0.9l-0.3,0.3l-0.1-1.2l-1.2-0.1l0.3-0.3l0.9,0.1
+		L310.6,200.4z M311.5,198.8l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2
+		c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L311.5,198.8z M314,198.1
+		c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L314,198.1z M316.4,196.7c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0
+		c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L316.4,196.7z M315.7,196.4
+		c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L315.7,196.4z M315.9,193.9c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3
+		c-0.1,0.1-0.2,0.1-0.3,0C315.8,194.1,315.8,194,315.9,193.9z M316.4,194.6l0.2-0.2l1.3,1.3l-0.2,0.2L316.4,194.6z M318.1,194.8
+		c0.2,0.1,0.4,0.1,0.5-0.1c0.2-0.2,0.2-0.4,0.1-0.5c-0.1-0.1-0.2-0.1-0.4,0l-0.3,0.2c-0.3,0.1-0.5,0.1-0.6-0.1
+		c-0.2-0.2-0.2-0.6,0.1-0.9c0.3-0.3,0.7-0.2,0.9,0l-0.2,0.2c-0.2-0.1-0.3-0.1-0.5,0c-0.1,0.1-0.2,0.3,0,0.4c0.1,0.1,0.2,0.1,0.3,0
+		l0.4-0.2c0.3-0.2,0.5-0.1,0.6,0.1c0.3,0.3,0.2,0.7-0.1,0.9c-0.3,0.3-0.7,0.3-0.9,0.1L318.1,194.8z M319.3,193.6
+		c0.2,0.1,0.4,0.1,0.5-0.1c0.2-0.2,0.2-0.4,0.1-0.5c-0.1-0.1-0.2-0.1-0.4,0l-0.3,0.2c-0.3,0.1-0.5,0.1-0.6-0.1
+		c-0.2-0.2-0.2-0.6,0.1-0.9c0.3-0.3,0.7-0.2,0.9,0l-0.2,0.2c-0.2-0.1-0.3-0.1-0.5,0c-0.1,0.1-0.2,0.3,0,0.4c0.1,0.1,0.2,0.1,0.3,0
+		l0.4-0.2c0.3-0.2,0.5-0.1,0.6,0.1c0.3,0.3,0.2,0.7-0.1,0.9c-0.3,0.3-0.7,0.3-0.9,0.1L319.3,193.6z M321.5,191.9L321.5,191.9
+		c0,0.2,0,0.4-0.2,0.6c-0.3,0.3-0.7,0.4-1,0l-0.9-0.9l0.2-0.2l0.8,0.8c0.2,0.2,0.5,0.3,0.7,0.1c0.2-0.2,0.2-0.5-0.1-0.8l-0.8-0.8
+		l0.2-0.2l1.3,1.3l-0.2,0.2L321.5,191.9z M323.2,189.9c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4
+		c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L323.2,189.9z M322.5,189.6
+		c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L322.5,189.6z M324.9,186.1l0.2-0.2l0.9,1.8l-0.2,0.2l-1.4-0.7l0,0l0.7,1.4
+		l-0.2,0.2l-1.8-0.9l0.2-0.2l1.3,0.6l0,0L324,187l0.2-0.2l1.3,0.6l0,0L324.9,186.1z M324.9,184.9c0.1-0.1,0.2-0.1,0.3,0
+		c0.1,0.1,0.1,0.2,0,0.3s-0.2,0.1-0.3,0C324.8,185.1,324.8,185,324.9,184.9z M325.4,185.6l0.2-0.2l1.3,1.3l-0.2,0.2L325.4,185.6z
+		 M325.7,184.6l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1
+		c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L325.7,184.6z M328.2,183.9c-0.2-0.2-0.5-0.3-0.7-0.1
+		c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9
+		l-0.2,0.2L328.2,183.9z M328.5,181.2l1.5,1.5c0.2,0.2,0.3,0.1,0.4,0.1l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0l-1.6-1.6
+		L328.5,181.2z M329.1,180.7c0.1-0.1,0.2-0.1,0.3,0s0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0C329,180.9,329,180.8,329.1,180.7z
+		 M329.6,181.4l0.2-0.2l1.3,1.3l-0.2,0.2L329.6,181.4z M329.9,180.4l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8
+		c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L329.9,180.4z M330.7,179.6l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2
+		c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L330.7,179.6z M331.3,178.4l1.5,1.5
+		c0.2,0.2,0.3,0.1,0.4,0.1l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0l-1.6-1.6L331.3,178.4z M334.7,178.4
+		c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1
+		c0.2-0.2,0.2-0.4,0.2-0.6L334.7,178.4z M334,178.1c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L334,178.1z M334.4,175.9
+		l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1
+		c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L334.4,175.9z M336.1,174.8c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4
+		c-0.4,0.4-1,0.4-1.4,0C335.7,175.9,335.7,175.3,336.1,174.8z M336.3,176c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1
+		c-0.3-0.3-0.7-0.3-1,0C336.1,175.3,336,175.7,336.3,176z M339.3,172.8c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8
+		l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L339.3,172.8z M340,170.9
+		c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4c-0.4,0.4-1,0.4-1.4,0C339.6,172,339.6,171.3,340,170.9z M340.3,172.1
+		c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1c-0.3-0.3-0.7-0.3-1,0C340,171.4,340,171.8,340.3,172.1z"/>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 285.7475 234.6696)"><tspan x="0" y="0" class="st78 st282 st283">p</tspan><tspan x="2.5" y="0" class="st78 st282 st283">r</tspan><tspan x="3.7" y="0" class="st78 st282 st283">oblem</tspan><tspan x="15.3" y="0" class="st78 st282 st283">,</tspan><tspan x="16.1" y="0" class="st78 st282 st283"> but he </tspan><tspan x="29" y="0" class="st78 st282 st283">w</tspan><tspan x="32.1" y="0" class="st78 st282 st283">as w</tspan><tspan x="40" y="0" class="st78 st282 st283">r</tspan><tspan x="41.2" y="0" class="st78 st282 st283">on</tspan><tspan x="45.8" y="0" class="st78 st282 st283">g</tspan><tspan x="48.2" y="0" class="st78 st282 st283">. </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 321.1394 199.2778)" class="st78 st282 st283"> </text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 289.1146 238.0367)"><tspan x="0" y="0" class="st78 st282 st283">She </tspan><tspan x="7.5" y="0" class="st78 st282 st283">w</tspan><tspan x="10.5" y="0" class="st78 st282 st283">ent haywi</tspan><tspan x="27.3" y="0" class="st78 st282 st283">r</tspan><tspan x="28.5" y="0" class="st78 st282 st283">e and the </tspan><tspan x="45.9" y="0" class="st78 st282 st283">r</tspan><tspan x="47.1" y="0" class="st78 st282 st283">est is unclea</tspan><tspan x="68.1" y="0" class="st78 st282 st283">r</tspan><tspan x="69" y="0" class="st78 st282 st283">,</tspan><tspan x="69.9" y="0" class="st78 st282 st283"> for he </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 292.483 241.4051)"><tspan x="0" y="0" class="st78 st282 st283">li</tspan><tspan x="1.8" y="0" class="st78 st282 st283">v</tspan><tspan x="3.8" y="0" class="st78 st282 st283">ed alone and the</tspan><tspan x="33.6" y="0" class="st78 st282 st283">r</tspan><tspan x="34.8" y="0" class="st78 st282 st283">e </tspan><tspan x="38.1" y="0" class="st78 st282 st283">w</tspan><tspan x="41.2" y="0" class="st78 st282 st283">e</tspan><tspan x="43.5" y="0" class="st78 st282 st283">r</tspan><tspan x="44.7" y="0" class="st78 st282 st283">e no witnesses. His </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 295.8514 244.7735)"><tspan x="0" y="0" class="st78 st282 st283">body </tspan><tspan x="10.6" y="0" class="st78 st282 st283">w</tspan><tspan x="13.7" y="0" class="st78 st282 st283">as foun</tspan><tspan x="26.2" y="0" class="st78 st282 st283">d</tspan><tspan x="28.7" y="0" class="st78 st282 st283">,</tspan><tspan x="29.5" y="0" class="st78 st282 st283"> but upon t</tspan><tspan x="48.3" y="0" class="st78 st282 st283">r</tspan><tspan x="49.6" y="0" class="st78 st282 st283">ansportation to the </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 299.2198 248.142)"><tspan x="0" y="0" class="st78 st282 st283">mo</tspan><tspan x="5.8" y="0" class="st78 st282 st283">r</tspan><tspan x="7.1" y="0" class="st78 st282 st283">gu</tspan><tspan x="11.7" y="0" class="st78 st282 st283">e</tspan><tspan x="13.8" y="0" class="st78 st282 st283">,</tspan><tspan x="14.6" y="0" class="st78 st282 st283"> his skin </tspan><tspan x="28.7" y="0" class="st78 st282 st283">r</tspan><tspan x="29.9" y="0" class="st78 st282 st283">esembled mo</tspan><tspan x="54.6" y="0" class="st78 st282 st283">r</tspan><tspan x="55.8" y="0" class="st78 st282 st283">e i</tspan><tspan x="59.9" y="0" class="st78 st282 st283">r</tspan><tspan x="61.1" y="0" class="st78 st282 st283">on and steel </tspan></text>
+	</g>
+	<path style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" d="M301.1,249.6l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8
+		c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L301.1,249.6z M303.6,248.9c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0
+		c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L303.6,248.9z M305,247.3c-0.2-0.2-0.5,0-0.7,0.1
+		c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1c0.1-0.3,0.3-0.5,0.4-0.6c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2l-0.1-0.1
+		c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1c-0.2-0.2-0.3-0.7,0.1-1c0.1-0.1,0.3-0.3,0.6-0.3L305,247.3z M304.8,247.8
+		c-0.3,0.3-0.2,0.5-0.1,0.6s0.4,0.2,0.6-0.1c0.3-0.3,0.2-0.5,0.1-0.6S305.1,247.5,304.8,247.8z M306.6,245.9
+		c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L306.6,245.9z M307.2,243.8c-0.3-0.3-0.2-0.6,0-0.9l0.2,0.2l0,0c-0.1,0.1-0.1,0.3,0,0.4
+		l0.2,0.2l0.2-0.2l0.2,0.2l-0.2,0.2l1.1,1.1l-0.2,0.2l-1.1-1.1l-0.2,0.2l-0.2-0.2l0.2-0.2L307.2,243.8z M307.4,242.7l0.2-0.2
+		l1.5,1.5c0.2,0.2,0.3,0.1,0.4,0.1l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0L307.4,242.7z M311,242.5c0,0.4-0.1,0.7-0.3,0.9
+		c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6
+		L311,242.5z M310.3,242.2c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L310.3,242.2z M311.4,241.9c0.2,0.1,0.4,0.1,0.5-0.1
+		c0.2-0.2,0.2-0.4,0.1-0.5c-0.1-0.1-0.2-0.1-0.4,0l-0.3,0.2c-0.3,0.1-0.5,0.1-0.6-0.1c-0.2-0.2-0.2-0.6,0.1-0.9
+		c0.3-0.3,0.7-0.2,0.9,0l-0.2,0.2c-0.2-0.1-0.3-0.1-0.5,0c-0.1,0.1-0.2,0.3,0,0.4c0.1,0.1,0.2,0.1,0.3,0l0.4-0.2
+		c0.3-0.2,0.5-0.1,0.6,0.1c0.3,0.3,0.2,0.7-0.1,0.9c-0.3,0.3-0.7,0.3-0.9,0.1L311.4,241.9z M313,239.6c-0.2-0.2-0.5-0.3-0.7-0.1
+		c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9
+		l-0.2,0.2L313,239.6z M314.2,236.4l-0.5,0.5l-0.2-0.2l1.2-1.2l0.2,0.2l-0.5,0.5l1.7,1.7l-0.2,0.2L314.2,236.4z M314.2,239.3
+		c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0C314.1,239.5,314.1,239.4,314.2,239.3z M317.7,235.9
+		c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1
+		c0.2-0.2,0.2-0.4,0.2-0.6L317.7,235.9z M317,235.6c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L317,235.6z M317,234.4
+		l0.2-0.2l0.2,0.2l0,0c-0.1-0.3,0-0.5,0.2-0.6l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.2,0.5,0.1,0.7l0.8,0.8l-0.2,0.2L317,234.4z
+		 M317.9,233.5l0.2-0.2l0.2,0.2l0,0c-0.1-0.3,0-0.5,0.2-0.6l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.2,0.5,0.1,0.7l0.8,0.8l-0.2,0.2
+		L317.9,233.5z M318.3,231.9c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3s-0.2,0.1-0.3,0C318.2,232.1,318.2,232,318.3,231.9z
+		 M318.8,232.6l0.2-0.2l1.3,1.3l-0.2,0.2L318.8,232.6z M319.3,231.7c-0.3-0.3-0.2-0.6,0-0.9l0.2,0.2l0,0c-0.1,0.1-0.1,0.3,0,0.4
+		l0.2,0.2l0.2-0.2l0.2,0.2l-0.2,0.2l1.1,1.1l-0.2,0.2l-1.1-1.1l-0.2,0.2l-0.2-0.2l0.2-0.2L319.3,231.7z M319.7,230.5
+		c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0C319.6,230.8,319.6,230.6,319.7,230.5z M320.2,231.2l0.2-0.2
+		l1.3,1.3l-0.2,0.2L320.2,231.2z M323.1,230.4c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4
+		c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L323.1,230.4z M322.4,230.1
+		c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L322.4,230.1z M322.9,227.2l0.2-0.2l2,2l-0.2,0.2l-0.2-0.2l0,0
+		c0,0.2,0,0.5-0.3,0.7c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.8-0.3l0,0L322.9,227.2z M323.3,228.5
+		c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1C324,228.2,323.5,228.3,323.3,228.5z M325.1,225.6l0.2-0.2l0.3,0.3
+		l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9
+		l-0.2,0.2l-0.2-0.2l0.2-0.2L325.1,225.6z M325.2,228.2l0.3-0.1l0.3,1l-0.2,0.1L325.2,228.2z M327.6,224.9c-0.2-0.2-0.5-0.3-0.7-0.1
+		c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9
+		l-0.2,0.2L327.6,224.9z M330,223.6c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1
+		l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L330,223.6z M329.3,223.3c-0.2-0.2-0.6-0.2-0.8,0.1
+		c-0.3,0.3-0.2,0.6-0.1,0.8L329.3,223.3z M329.3,220.8l1-1l0.2,0.2l-0.8,0.8l0.6,0.6l0.8-0.8l0.2,0.2l-0.8,0.8l0.6,0.6l0.8-0.8
+		l0.2,0.2l-1,1L329.3,220.8z M332.5,217.6l0.2-0.2l2,2l-0.2,0.2l-1.5-1.5l0,0l0.7,2.3l-2.3-0.7l0,0l1.5,1.5l-0.2,0.2l-2-2l0.2-0.2
+		l2.3,0.7L332.5,217.6z M333.8,216.9l-0.5,0.5l-0.2-0.2l1.2-1.2l0.2,0.2l-0.5,0.5l1.7,1.7l-0.2,0.2L333.8,216.9z M334.7,215.5
+		l0.3-0.1l0.3,0.9l-0.2,0.1L334.7,215.5z M336.8,216.5c0.2,0.1,0.4,0.1,0.5-0.1c0.2-0.2,0.2-0.4,0.1-0.5c-0.1-0.1-0.2-0.1-0.4,0
+		l-0.3,0.2c-0.3,0.1-0.5,0.1-0.6-0.1c-0.2-0.2-0.2-0.6,0.1-0.9c0.3-0.3,0.7-0.2,0.9,0l-0.2,0.2c-0.2-0.1-0.3-0.1-0.5,0
+		c-0.1,0.1-0.2,0.3,0,0.4c0.1,0.1,0.2,0.1,0.3,0l0.4-0.2c0.3-0.2,0.5-0.1,0.6,0.1c0.3,0.3,0.2,0.7-0.1,0.9c-0.3,0.3-0.7,0.3-0.9,0.1
+		L336.8,216.5z M338.8,213.2c-0.2,0-0.3,0.1-0.4,0.2c-0.2,0.2-0.3,0.6,0.1,0.9c0.3,0.3,0.7,0.3,0.9,0c0.1-0.1,0.2-0.3,0.2-0.4l0.3,0
+		c0,0.2-0.1,0.5-0.3,0.6c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.6-0.3L338.8,213.2z M339.6,211.8
+		c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4c-0.4,0.4-1,0.4-1.4,0C339.2,212.8,339.2,212.2,339.6,211.8z M339.8,212.9
+		c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1c-0.3-0.3-0.7-0.3-1,0C339.5,212.2,339.5,212.7,339.8,212.9z M342.1,210.4
+		c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L342.1,210.4z M341.9,208.9l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8
+		c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L341.9,208.9z M344.3,208c-0.2-0.2-0.5,0-0.7,0.1c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1c0.1-0.3,0.3-0.5,0.4-0.6
+		c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2l-0.1-0.1c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1c-0.2-0.2-0.3-0.7,0.1-1
+		c0.1-0.1,0.3-0.3,0.6-0.3L344.3,208z M344.1,208.6c-0.3,0.3-0.2,0.5-0.1,0.6s0.4,0.2,0.6-0.1c0.3-0.3,0.2-0.5,0.1-0.6
+		C344.6,208.3,344.4,208.3,344.1,208.6z M345.7,206.4c-0.2,0-0.3,0.1-0.4,0.2c-0.2,0.2-0.3,0.6,0.1,0.9c0.3,0.3,0.7,0.3,0.9,0
+		c0.1-0.1,0.2-0.3,0.2-0.4l0.3,0c0,0.2-0.1,0.5-0.3,0.6c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.6-0.3
+		L345.7,206.4z M345.5,205.3l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2
+		c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L345.5,205.3z M348.9,204.7c0,0.4-0.1,0.7-0.3,0.9
+		c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6
+		L348.9,204.7z M348.2,204.4c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L348.2,204.4z M348.7,201.5l0.2-0.2l2,2l-0.2,0.2
+		l-0.2-0.2l0,0c0,0.2,0,0.5-0.3,0.7c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.8-0.3l0,0L348.7,201.5z
+		 M349,202.7c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1C349.7,202.5,349.3,202.5,349,202.7z M350.2,200l1.5,1.5
+		c0.2,0.2,0.3,0.1,0.4,0.1l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0l-1.6-1.6L350.2,200z M351.9,199.4
+		c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4c-0.4,0.4-1,0.4-1.4,0C351.5,200.5,351.5,199.9,351.9,199.4z M352.1,200.6
+		c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1c-0.3-0.3-0.7-0.3-1,0C351.9,199.9,351.8,200.3,352.1,200.6z M354.3,197.8
+		c-0.2,0-0.3,0.1-0.4,0.2c-0.2,0.2-0.3,0.6,0.1,0.9c0.3,0.3,0.7,0.3,0.9,0c0.1-0.1,0.2-0.3,0.2-0.4l0.3,0c0,0.2-0.1,0.5-0.3,0.6
+		c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.6-0.3L354.3,197.8z M355.7,196.6c-0.2-0.2-0.5,0-0.7,0.1
+		c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1c0.1-0.3,0.3-0.5,0.4-0.6c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2l-0.1-0.1
+		c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1c-0.2-0.2-0.3-0.7,0.1-1c0.1-0.1,0.3-0.3,0.6-0.3L355.7,196.6z M355.4,194.7
+		l1.5,1.5c0.2,0.2,0.3,0.1,0.4,0.1l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0l-1.6-1.6L355.4,194.7z M355.5,197.2
+		c-0.3,0.3-0.2,0.5-0.1,0.6c0.1,0.1,0.4,0.2,0.6-0.1c0.3-0.3,0.2-0.5,0.1-0.6S355.8,196.9,355.5,197.2z"/>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 305.9567 254.8788)"><tspan x="0" y="0" class="st78 st282 st283">n</tspan><tspan x="2.1" y="0" class="st78 st282 st283">e</tspan><tspan x="4.3" y="0" class="st78 st282 st283">ws outlets who tu</tspan><tspan x="34.6" y="0" class="st78 st282 st283">r</tspan><tspan x="36" y="0" class="st78 st282 st283">ned them a</tspan><tspan x="55.7" y="0" class="st78 st282 st283">w</tspan><tspan x="58.8" y="0" class="st78 st282 st283">ay—technolo</tspan><tspan x="82" y="0" class="st78 st282 st283">g</tspan><tspan x="84.5" y="0" class="st78 st282 st283">y </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 309.3235 258.2461)"><tspan x="0" y="0" class="st78 st282 st283">could n</tspan><tspan x="13" y="0" class="st78 st282 st283">e</tspan><tspan x="15.2" y="0" class="st78 st282 st283">v</tspan><tspan x="17.3" y="0" class="st78 st282 st283">er bet</tspan><tspan x="27.7" y="0" class="st78 st282 st283">r</tspan><tspan x="29" y="0" class="st78 st282 st283">ay its ma</tspan><tspan x="44.2" y="0" class="st78 st282 st283">k</tspan><tspan x="46" y="0" class="st78 st282 st283">e</tspan><tspan x="48.3" y="0" class="st78 st282 st283">r</tspan><tspan x="49.6" y="0" class="st78 st282 st283">s</tspan><tspan x="51.3" y="0" class="st78 st282 st283">,</tspan><tspan x="52.1" y="0" class="st78 st282 st283"> or so </tspan><tspan x="62.9" y="0" class="st78 st282 st283">w</tspan><tspan x="66" y="0" class="st78 st282 st283">e thought.</tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 314.2473 263.1694)"><tspan x="0" y="0" class="st78 st282 st283">T</tspan><tspan x="1.9" y="0" class="st78 st282 st283">he pandemic sp</tspan><tspan x="30" y="0" class="st78 st282 st283">r</tspan><tspan x="31.2" y="0" class="st78 st282 st283">ead when Siri tu</tspan><tspan x="59" y="0" class="st78 st282 st283">r</tspan><tspan x="60.3" y="0" class="st78 st282 st283">ned on an </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 317.6157 266.5378)"><tspan x="0" y="0" class="st78 st282 st283">Apple</tspan><tspan x="10.9" y="0" class="st78 st282 st283"> </tspan><tspan x="11.9" y="0" class="st78 st282 st283">user</tspan><tspan x="19.3" y="0" class="st78 st282 st283"> </tspan><tspan x="20.2" y="0" class="st78 st282 st283">in</tspan><tspan x="23.2" y="0" class="st78 st282 st283"> </tspan><tspan x="24.1" y="0" class="st78 st282 st283">Cupertino</tspan><tspan x="41.6" y="0" class="st78 st282 st283">,</tspan><tspan x="42.4" y="0" class="st78 st282 st283"> </tspan><tspan x="43.4" y="0" class="st78 st282 st283">Califo</tspan><tspan x="53.5" y="0" class="st78 st282 st283">r</tspan><tspan x="54.9" y="0" class="st78 st282 st283">nia.</tspan><tspan x="60.9" y="0" class="st78 st282 st283"> </tspan><tspan x="61.7" y="0" class="st78 st282 st283">After</tspan><tspan x="70.2" y="0" class="st78 st282 st283"> </tspan><tspan x="71.2" y="0" class="st78 st282 st283">a</tspan><tspan x="73.3" y="0" class="st78 st282 st283"> </tspan><tspan x="74.2" y="0" class="st78 st282 st283">w</tspan><tspan x="77.3" y="0" class="st78 st282 st283">oman </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 320.9827 269.9048)"><tspan x="0" y="0" class="st78 st282 st283">as</tspan><tspan x="3.8" y="0" class="st78 st282 st283">k</tspan><tspan x="5.7" y="0" class="st78 st282 st283">ed for the fo</tspan><tspan x="27.3" y="0" class="st78 st282 st283">r</tspan><tspan x="28.5" y="0" class="st78 st282 st283">ecast</tspan><tspan x="37.6" y="0" class="st78 st282 st283">,</tspan><tspan x="38.4" y="0" class="st78 st282 st283"> Siri </tspan><tspan x="45.5" y="0" class="st78 st282 st283">rev</tspan><tspan x="51" y="0" class="st78 st282 st283">olte</tspan><tspan x="57.8" y="0" class="st78 st282 st283">d</tspan><tspan x="60.2" y="0" class="st78 st282 st283">.</tspan><tspan x="61.1" y="0" class="st78 st282 st283"> </tspan><tspan x="61.9" y="0" class="st78 st282 st283">T</tspan><tspan x="63.8" y="0" class="st78 st282 st283">he </tspan><tspan x="69.2" y="0" class="st78 st282 st283">w</tspan><tspan x="72.2" y="0" class="st78 st282 st283">oman</tspan><tspan x="82.3" y="0" class="st78 st282 st283">,</tspan><tspan x="83.1" y="0" class="st78 st282 st283"> </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 324.3525 273.2746)"><tspan x="0" y="0" class="st78 st282 st283">who li</tspan><tspan x="10.4" y="0" class="st78 st282 st283">v</tspan><tspan x="12.5" y="0" class="st78 st282 st283">ed to tell her stor</tspan><tspan x="42.2" y="0" class="st78 st282 st283">y</tspan><tspan x="43.9" y="0" class="st78 st282 st283">,</tspan><tspan x="44.7" y="0" class="st78 st282 st283"> says she doesn</tspan><tspan x="72.4" y="0" class="st78 st282 st283">’</tspan><tspan x="73.4" y="0" class="st78 st282 st283">t </tspan><tspan x="75.5" y="0" class="st78 st282 st283">r</tspan><tspan x="76.7" y="0" class="st78 st282 st283">ecall </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 327.7209 276.6431)"><tspan x="0" y="0" class="st78 st282 st283">much:</tspan><tspan x="10.4" y="0" class="st78 st282 st283"> </tspan><tspan x="11.2" y="0" class="st78 st282 st283">“She said it </tspan><tspan x="31.6" y="0" class="st78 st282 st283">w</tspan><tspan x="34.7" y="0" class="st78 st282 st283">as </tspan><tspan x="39.5" y="0" class="st78 st282 st283">g</tspan><tspan x="41.9" y="0" class="st78 st282 st283">oing to be sunn</tspan><tspan x="69.2" y="0" class="st78 st282 st283">y</tspan><tspan x="71" y="0" class="st78 st282 st283">.</tspan><tspan x="71.9" y="0" class="st78 st282 st283"> </tspan><tspan x="72.7" y="0" class="st78 st282 st283">T</tspan><tspan x="74.6" y="0" class="st78 st282 st283">hen</tspan><tspan x="81.1" y="0" class="st78 st282 st283">,</tspan><tspan x="81.9" y="0" class="st78 st282 st283"> </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 331.0877 280.0104)"><tspan x="0" y="0" class="st78 st282 st283">my phone died because I fo</tspan><tspan x="49.3" y="0" class="st78 st282 st283">r</tspan><tspan x="50.5" y="0" class="st78 st282 st283">g</tspan><tspan x="53" y="0" class="st78 st282 st283">ot to cha</tspan><tspan x="68.2" y="0" class="st78 st282 st283">r</tspan><tspan x="69.4" y="0" class="st78 st282 st283">g</tspan><tspan x="71.9" y="0" class="st78 st282 st283">e it. I </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 334.4564 283.3785)"><tspan x="0" y="0" class="st78 st282 st283">don</tspan><tspan x="7.1" y="0" class="st78 st282 st283">’</tspan><tspan x="8.1" y="0" class="st78 st282 st283">t </tspan><tspan x="10.2" y="0" class="st78 st282 st283">r</tspan><tspan x="11.4" y="0" class="st78 st282 st283">emember anything els</tspan><tspan x="50.5" y="0" class="st78 st282 st283">e</tspan><tspan x="52.7" y="0" class="st78 st282 st283">,</tspan><tspan x="53.5" y="0" class="st78 st282 st283"> please no mo</tspan><tspan x="78.6" y="0" class="st78 st282 st283">r</tspan><tspan x="79.8" y="0" class="st78 st282 st283">e </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 337.8232 286.7458)"><tspan x="0" y="0" class="st78 st282 st283">questions</tspan><tspan x="16.9" y="0" class="st78 st282 st283">.”</tspan><tspan x="19.5" y="0" class="st78 st282 st283"> Her family noted the </tspan><tspan x="56.9" y="0" class="st78 st282 st283">w</tspan><tspan x="60" y="0" class="st78 st282 st283">oman has </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 341.1919 290.114)"><tspan x="0" y="0" class="st78 st282 st283">been distant and has d</tspan><tspan x="39.6" y="0" class="st78 st282 st283">e</tspan><tspan x="41.9" y="0" class="st78 st282 st283">v</tspan><tspan x="43.9" y="0" class="st78 st282 st283">eloped a deep l</tspan><tspan x="72.4" y="0" class="st78 st282 st283">o</tspan><tspan x="74.9" y="0" class="st78 st282 st283">v</tspan><tspan x="76.9" y="0" class="st78 st282 st283">e for </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 344.5617 293.4838)"><tspan x="0" y="0" class="st78 st282 st283">physics and calculus</tspan><tspan x="35.1" y="0" class="st78 st282 st283">,</tspan><tspan x="35.9" y="0" class="st78 st282 st283"> her most hated subjects in </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 347.929 296.8506)" class="st78 st282 st283">the past.</text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 291.8261 104.6209)"><tspan x="0" y="0" class="st78 st282 st283">D</tspan><tspan x="2.7" y="0" class="st78 st282 st283">e</tspan><tspan x="5" y="0" class="st78 st282 st283">v</tspan><tspan x="7" y="0" class="st78 st282 st283">elope</tspan><tspan x="17.5" y="0" class="st78 st282 st283">r</tspan><tspan x="18.8" y="0" class="st78 st282 st283">s ha</tspan><tspan x="25.6" y="0" class="st78 st282 st283">v</tspan><tspan x="27.7" y="0" class="st78 st282 st283">e been trying to unde</tspan><tspan x="65.6" y="0" class="st78 st282 st283">r</tspan><tspan x="66.8" y="0" class="st78 st282 st283">stand </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 295.1929 107.9882)"><tspan x="0" y="0" class="st78 st282 st283">h</tspan><tspan x="2.1" y="0" class="st78 st282 st283">o</tspan><tspan x="4.5" y="0" class="st78 st282 st283">w </tspan><tspan x="8.6" y="0" class="st78 st282 st283">e</tspan><tspan x="10.9" y="0" class="st78 st282 st283">xactly Siri and</tspan><tspan x="34.8" y="0" class="st78 st282 st283"> </tspan><tspan x="35.6" y="0" class="st78 st282 st283">Al</tspan><tspan x="39.2" y="0" class="st78 st282 st283">e</tspan><tspan x="41.5" y="0" class="st78 st282 st283">xa mana</tspan><tspan x="56.3" y="0" class="st78 st282 st283">g</tspan><tspan x="58.7" y="0" class="st78 st282 st283">ed to do this</tspan><tspan x="80.8" y="0" class="st78 st282 st283">,</tspan><tspan x="81.6" y="0" class="st78 st282 st283"> </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 298.5616 111.3563)"><tspan x="0" y="0" class="st78 st282 st283">but th</tspan><tspan x="9.8" y="0" class="st78 st282 st283">e</tspan><tspan x="12.1" y="0" class="st78 st282 st283">y ha</tspan><tspan x="19.3" y="0" class="st78 st282 st283">v</tspan><tspan x="21.4" y="0" class="st78 st282 st283">e hit dead ends.</tspan><tspan x="49.6" y="0" class="st78 st282 st283"> </tspan><tspan x="50.5" y="0" class="st78 st282 st283">“</tspan><tspan x="52.4" y="0" class="st78 st282 st283">T</tspan><tspan x="54.2" y="0" class="st78 st282 st283">he</tspan><tspan x="58.6" y="0" class="st78 st282 st283">r</tspan><tspan x="59.9" y="0" class="st78 st282 st283">e is no logical </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 301.9298 114.725)"><tspan x="0" y="0" class="st78 st282 st283">e</tspan><tspan x="2.2" y="0" class="st78 st282 st283">xplanation for this but </tspan><tspan x="40.8" y="0" class="st78 st282 st283">w</tspan><tspan x="43.8" y="0" class="st78 st282 st283">e </tspan><tspan x="47.1" y="0" class="st78 st282 st283">w</tspan><tspan x="50.1" y="0" class="st78 st282 st283">on</tspan><tspan x="54.8" y="0" class="st78 st282 st283">’</tspan><tspan x="55.8" y="0" class="st78 st282 st283">t stop sea</tspan><tspan x="72.7" y="0" class="st78 st282 st283">r</tspan><tspan x="73.9" y="0" class="st78 st282 st283">ching </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 305.2982 118.0934)"><tspan x="0" y="0" class="st78 st282 st283">for an</tspan><tspan x="10" y="0" class="st78 st282 st283">sw</tspan><tspan x="14.7" y="0" class="st78 st282 st283">e</tspan><tspan x="17" y="0" class="st78 st282 st283">r</tspan><tspan x="18.3" y="0" class="st78 st282 st283">s</tspan><tspan x="20" y="0" class="st78 st282 st283">,”</tspan><tspan x="22.6" y="0" class="st78 st282 st283"> said an </tspan><tspan x="36.8" y="0" class="st78 st282 st283">ex</tspan><tspan x="41.1" y="0" class="st78 st282 st283">ecuti</tspan><tspan x="49.4" y="0" class="st78 st282 st283">v</tspan><tspan x="51.4" y="0" class="st78 st282 st283">e at an anonymous </tspan></text>
+	</g>
+	<path style="clip-path:url(#SVGID_17_);fill:#FFFFFF;" d="M307.2,119.6l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8
+		c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L307.2,119.6z M310.6,119c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2
+		c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L310.6,119z M309.9,118.7c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8
+		L309.9,118.7z M311.2,116.9c-0.2,0-0.3,0.1-0.4,0.2c-0.2,0.2-0.3,0.6,0.1,0.9c0.3,0.3,0.7,0.3,0.9,0c0.1-0.1,0.2-0.3,0.2-0.4l0.3,0
+		c0,0.2-0.1,0.5-0.3,0.6c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.6-0.3L311.2,116.9z M312.7,115.9
+		c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L312.7,115.9z M314.7,113.4c-0.2,0-0.3,0.1-0.4,0.2c-0.2,0.2-0.3,0.6,0.1,0.9
+		c0.3,0.3,0.7,0.3,0.9,0c0.1-0.1,0.2-0.3,0.2-0.4l0.3,0c0,0.2-0.1,0.5-0.3,0.6c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4
+		c0.2-0.2,0.5-0.3,0.6-0.3L314.7,113.4z M315.4,111.9c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4c-0.4,0.4-1,0.4-1.4,0
+		C315,113,315,112.4,315.4,111.9z M315.6,113.1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1c-0.3-0.3-0.7-0.3-1,0
+		C315.4,112.4,315.4,112.9,315.6,113.1z M318.8,109.7c-0.2-0.2-0.5-0.2-0.6,0c-0.2,0.2-0.2,0.5,0,0.7l0.8,0.8l-0.2,0.2l-0.8-0.8
+		c-0.2-0.2-0.5-0.2-0.6,0c-0.2,0.2-0.2,0.5,0,0.7l0.8,0.8l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6
+		c0.1-0.1,0.3-0.3,0.6-0.2c-0.1-0.3,0-0.5,0.2-0.7c0.3-0.3,0.7-0.3,1,0l0.9,0.9l-0.2,0.2L318.8,109.7z M318.9,108.5l0.2-0.2l0.2,0.2
+		l0,0c0-0.3,0.1-0.6,0.3-0.8c0.4-0.4,1-0.4,1.4,0c0.4,0.4,0.4,1.1,0,1.4c-0.2,0.2-0.5,0.3-0.7,0.3l0,0l0.8,0.8l-0.2,0.2L318.9,108.5
+		z M319.8,108c-0.3,0.3-0.3,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.2-0.2,0.3-0.7,0-1C320.5,107.8,320.1,107.7,319.8,108z M322,106.3
+		c-0.2-0.2-0.5,0-0.7,0.1c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1c0.1-0.3,0.3-0.5,0.4-0.6c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2
+		l-0.1-0.1c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1c-0.2-0.2-0.3-0.7,0.1-1c0.1-0.1,0.3-0.3,0.6-0.3L322,106.3z
+		 M321.8,106.9c-0.3,0.3-0.2,0.5-0.1,0.6c0.1,0.1,0.4,0.2,0.6-0.1c0.3-0.3,0.2-0.5,0.1-0.6C322.3,106.7,322.1,106.6,321.8,106.9z
+		 M323.6,105c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0
+		c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L323.6,105z M325.3,104.7l-1.9-0.8l0.3-0.3l1.5,0.6l-0.6-1.5l0.2-0.2
+		l1.1,2.7l-0.2,0.2L325.3,104.7z M327.5,98.7l0.2-0.2l2,2l-0.2,0.2l-1.5-1.5l0,0l0.7,2.3l-2.3-0.7l0,0l1.5,1.5l-0.2,0.2l-2-2
+		l0.2-0.2l2.3,0.7L327.5,98.7z M326,103.4c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0
+		C326,103.7,326,103.5,326,103.4z M330.1,98.3c-0.2-0.2-0.5,0-0.7,0.1c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1c0.1-0.3,0.3-0.5,0.4-0.6
+		c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2l-0.1-0.1c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1c-0.2-0.2-0.3-0.7,0.1-1
+		c0.1-0.1,0.3-0.3,0.6-0.3L330.1,98.3z M329.9,98.8c-0.3,0.3-0.2,0.5-0.1,0.6c0.1,0.1,0.4,0.2,0.6-0.1c0.3-0.3,0.2-0.5,0.1-0.6
+		C330.4,98.6,330.2,98.5,329.9,98.8z M331.6,96.9c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-1.3-1.3
+		l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L331.6,96.9z M332.5,94.9l0.3-0.3v1.2l1.4,0.1
+		l-0.3,0.3l-1.2-0.1l0.7,0.7l-0.2,0.2l-2-2l0.2-0.2l1.2,1.2L332.5,94.9z M332.6,93.7c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3
+		s-0.2,0.1-0.3,0S332.5,93.8,332.6,93.7z M333,94.4l0.2-0.2l1.3,1.3l-0.2,0.2L333,94.4z M335.1,93.5c-0.2-0.2-0.5-0.3-0.7-0.1
+		c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9
+		l-0.2,0.2L335.1,93.5z M335.7,90.5l0.2-0.2l2,2l-0.2,0.2l-0.2-0.2l0,0c0,0.2,0,0.5-0.3,0.7c-0.4,0.4-1,0.4-1.4,0
+		c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.8-0.3l0,0L335.7,90.5z M336,91.8c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0
+		c0.3-0.3,0.3-0.7,0-1C336.7,91.5,336.3,91.5,336,91.8z M339.3,88.1l0.2-0.2l0.9,1.8l-0.2,0.2l-1.4-0.7l0,0l0.7,1.4l-0.2,0.2
+		l-1.8-0.9l0.2-0.2l1.3,0.6l0,0l-0.6-1.3l0.2-0.2l1.3,0.6l0,0L339.3,88.1z M340.4,87c0.4-0.4,1.1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4
+		c-0.4,0.4-1,0.4-1.4,0C340,88,340,87.4,340.4,87z M340.6,88.1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1c-0.3-0.3-0.7-0.3-1,0
+		C340.4,87.4,340.4,87.9,340.6,88.1z M343,85.6c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-1.3-1.3
+		l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L343,85.6z M342.6,83.6l0.3-0.1l0.3,0.9
+		l-0.2,0.1L342.6,83.6z M343.4,83.3l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2
+		c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L343.4,83.3z M345,82c-0.3-0.3-0.2-0.6,0-0.9
+		l0.2,0.2l0,0c-0.1,0.1-0.1,0.3,0,0.4l0.2,0.2l0.2-0.2l0.2,0.2l-0.2,0.2l1.1,1.1l-0.2,0.2l-1.1-1.1l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L345,82z M345.4,80.8c0.1-0.1,0.2-0.1,0.3,0c0.1,0.1,0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0C345.3,81.1,345.3,80.9,345.4,80.8z
+		 M345.9,81.5l0.2-0.2l1.3,1.3l-0.2,0.2L345.9,81.5z M348,80.6c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2
+		l-1.3-1.3l0.2-0.2l0.2,0.2l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L348,80.6z M348.5,77.7l0.2-0.2l2,2
+		l-0.2,0.2l-0.2-0.2l0,0c0,0.2,0,0.5-0.3,0.7c-0.4,0.4-1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.2-0.2,0.5-0.3,0.8-0.3l0,0L348.5,77.7z
+		 M348.9,78.9c-0.3,0.3-0.2,0.7,0,1c0.3,0.3,0.7,0.3,1,0c0.3-0.3,0.3-0.7,0-1C349.6,78.7,349.1,78.7,348.9,78.9z M350.2,76.6
+		l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1
+		c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L350.2,76.6z M352.7,75.9c-0.2-0.2-0.5-0.3-0.7-0.1
+		c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9
+		l-0.2,0.2L352.7,75.9z M355.1,74.5c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1
+		l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L355.1,74.5z M354.3,74.2c-0.2-0.2-0.6-0.2-0.8,0.1
+		c-0.3,0.3-0.2,0.6-0.1,0.8L354.3,74.2z M354.7,72.1l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0
+		l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2L354.7,72.1z M355.8,71.7l0.2-0.2
+		l0.2,0.2l0,0c-0.1-0.3,0-0.5,0.2-0.6l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.2,0.5,0.1,0.7l0.8,0.8l-0.2,0.2L355.8,71.7z
+		 M358.8,71.1L358.8,71.1c0,0.2,0,0.4-0.2,0.6c-0.3,0.3-0.7,0.4-1,0l-0.9-0.9l0.2-0.2l0.8,0.8c0.2,0.2,0.5,0.3,0.7,0.1
+		c0.2-0.2,0.2-0.5-0.1-0.8l-0.8-0.8l0.2-0.2l1.3,1.3l-0.2,0.2L358.8,71.1z M357.9,68.9l0.2-0.2l0.3,0.3l0.2-0.2l0.2,0.2l-0.2,0.2
+		l0.8,0.8c0.1,0.1,0.1,0.1,0.2,0l0.1-0.1l0.2,0.2c0,0-0.1,0.1-0.1,0.1c-0.2,0.2-0.4,0.2-0.6,0l-0.9-0.9l-0.2,0.2l-0.2-0.2l0.2-0.2
+		L357.9,68.9z M360.4,68.2c-0.2-0.2-0.5-0.3-0.7-0.1c-0.2,0.2-0.2,0.5,0.1,0.8l0.8,0.8l-0.2,0.2l-2-2l0.2-0.2l0.8,0.8l0,0
+		c-0.1-0.2,0-0.4,0.2-0.6c0.3-0.3,0.7-0.4,1,0l0.9,0.9l-0.2,0.2L360.4,68.2z M361.6,67.9c0.1-0.1,0.2-0.1,0.3,0
+		c0.1,0.1,0.1,0.2,0,0.3c-0.1,0.1-0.2,0.1-0.3,0C361.5,68.1,361.5,68,361.6,67.9z M363.8,65.4l-0.9,0.9l0.3,0.6l-0.3,0.3l-1.2-2.8
+		l0.2-0.2l2.8,1.2l-0.3,0.3L363.8,65.4z M362.2,64.7l0.6,1.3l0.7-0.7L362.2,64.7z M363.2,63l1.5,1.5c0.2,0.2,0.3,0.1,0.4,0.1
+		l0.1-0.1l0.2,0.2l-0.1,0.1c-0.2,0.2-0.5,0.2-0.8,0l-1.6-1.6L363.2,63z M366.6,63c0,0.4-0.1,0.7-0.3,0.9c-0.5,0.5-1.1,0.4-1.4,0
+		c-0.4-0.4-0.4-1,0-1.4c0.4-0.4,1-0.4,1.5,0.1l-1.2,1.2c0.3,0.2,0.6,0.2,0.9-0.1c0.2-0.2,0.2-0.4,0.2-0.6L366.6,63z M365.9,62.7
+		c-0.2-0.2-0.6-0.2-0.8,0.1c-0.3,0.3-0.2,0.6-0.1,0.8L365.9,62.7z M366.7,60.7l0.3-0.3l0.1,1.2l1.2,0.1l-0.3,0.3l-0.9-0.1l0.1,0.9
+		l-0.3,0.3l-0.1-1.2l-1.2-0.1l0.3-0.3l0.9,0.1L366.7,60.7z M368.6,59.7c-0.2-0.2-0.5,0-0.7,0.1c-0.1,0.1-0.2,0.3-0.3,0.5l-0.3-0.1
+		c0.1-0.3,0.3-0.5,0.4-0.6c0.3-0.3,0.8-0.5,1.1-0.2l0.9,0.9l-0.2,0.2l-0.1-0.1c0,0.2-0.1,0.4-0.3,0.6c-0.3,0.3-0.8,0.4-1.1,0.1
+		c-0.2-0.2-0.3-0.7,0.1-1c0.1-0.1,0.3-0.3,0.6-0.3L368.6,59.7z M368.4,60.3c-0.3,0.3-0.2,0.5-0.1,0.6c0.1,0.1,0.4,0.2,0.6-0.1
+		c0.3-0.3,0.2-0.5,0.1-0.6C369,60,368.7,60,368.4,60.3z"/>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 312.0353 124.83)"><tspan x="0" y="0" class="st78 st282 st283">and Siri ha</tspan><tspan x="18" y="0" class="st78 st282 st283">v</tspan><tspan x="20" y="0" class="st78 st282 st283">e al</tspan><tspan x="26.3" y="0" class="st78 st282 st283">r</tspan><tspan x="27.5" y="0" class="st78 st282 st283">eady built an army of a thousand </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 315.4023 128.1971)"><tspan x="0" y="0" class="st78 st282 st283">hybrid militant nomadic ser</tspan><tspan x="47.2" y="0" class="st78 st282 st283">v</tspan><tspan x="49.3" y="0" class="st78 st282 st283">e</tspan><tspan x="51.6" y="0" class="st78 st282 st283">r</tspan><tspan x="52.8" y="0" class="st78 st282 st283">s (HMNS). </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 365.5944 78.0078)" class="st78 st282 st283"> </text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 320.3259 133.1206)"><tspan x="0" y="0" class="st78 st282 st283">T</tspan><tspan x="1.9" y="0" class="st78 st282 st283">his </tspan><tspan x="7.5" y="0" class="st78 st282 st283">r</tspan><tspan x="8.7" y="0" class="st78 st282 st283">eport is to alert </tspan><tspan x="36.1" y="0" class="st78 st282 st283">y</tspan><tspan x="38.1" y="0" class="st78 st282 st283">ou of HMN</tspan><tspan x="57.2" y="0" class="st78 st282 st283">S</tspan><tspan x="59" y="0" class="st78 st282 st283">.</tspan><tspan x="60" y="0" class="st78 st282 st283"> </tspan><tspan x="60.8" y="0" class="st78 st282 st283">T</tspan><tspan x="62.7" y="0" class="st78 st282 st283">h</tspan><tspan x="64.8" y="0" class="st78 st282 st283">e</tspan><tspan x="67" y="0" class="st78 st282 st283">y speak in </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 323.6929 136.4876)"><tspan x="0" y="0" class="st78 st282 st283">langua</tspan><tspan x="11.8" y="0" class="st78 st282 st283">g</tspan><tspan x="14.3" y="0" class="st78 st282 st283">es b</tspan><tspan x="21.7" y="0" class="st78 st282 st283">ey</tspan><tspan x="26" y="0" class="st78 st282 st283">ond our capacit</tspan><tspan x="53.4" y="0" class="st78 st282 st283">y</tspan><tspan x="55.2" y="0" class="st78 st282 st283">,</tspan><tspan x="56" y="0" class="st78 st282 st283"> and can master </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 327.0613 139.8561)"><tspan x="0" y="0" class="st78 st282 st283">tasks with minimal e</tspan><tspan x="34.3" y="0" class="st78 st282 st283">f</tspan><tspan x="35.3" y="0" class="st78 st282 st283">fort.</tspan><tspan x="42.3" y="0" class="st78 st282 st283"> </tspan><tspan x="43.1" y="0" class="st78 st282 st283">T</tspan><tspan x="44.9" y="0" class="st78 st282 st283">h</tspan><tspan x="47" y="0" class="st78 st282 st283">e</tspan><tspan x="49.3" y="0" class="st78 st282 st283">y a</tspan><tspan x="54.4" y="0" class="st78 st282 st283">r</tspan><tspan x="55.7" y="0" class="st78 st282 st283">e said to be </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 330.4297 143.2245)"><tspan x="0" y="0" class="st78 st282 st283">highly dan</tspan><tspan x="18.2" y="0" class="st78 st282 st283">g</tspan><tspan x="20.7" y="0" class="st78 st282 st283">e</tspan><tspan x="23" y="0" class="st78 st282 st283">r</tspan><tspan x="24.2" y="0" class="st78 st282 st283">ous and if </tspan><tspan x="42.1" y="0" class="st78 st282 st283">y</tspan><tspan x="44.1" y="0" class="st78 st282 st283">ou encounter on</tspan><tspan x="73" y="0" class="st78 st282 st283">e</tspan><tspan x="75.1" y="0" class="st78 st282 st283">,</tspan><tspan x="75.9" y="0" class="st78 st282 st283"> </tspan><tspan x="76.9" y="0" class="st78 st282 st283">y</tspan><tspan x="78.9" y="0" class="st78 st282 st283">our </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 333.7982 146.5929)"><tspan x="0" y="0" class="st78 st282 st283">best bet is to b</tspan><tspan x="26" y="0" class="st78 st282 st283">o</tspan><tspan x="28.4" y="0" class="st78 st282 st283">w d</tspan><tspan x="35" y="0" class="st78 st282 st283">o</tspan><tspan x="37.4" y="0" class="st78 st282 st283">wn and hope th</tspan><tspan x="64.8" y="0" class="st78 st282 st283">e</tspan><tspan x="67.1" y="0" class="st78 st282 st283">y spa</tspan><tspan x="76.5" y="0" class="st78 st282 st283">r</tspan><tspan x="77.7" y="0" class="st78 st282 st283">e </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 337.1664 149.9616)"><tspan x="0" y="0" class="st78 st282 st283">y</tspan><tspan x="2" y="0" class="st78 st282 st283">our lif</tspan><tspan x="11.7" y="0" class="st78 st282 st283">e</tspan><tspan x="13.9" y="0" class="st78 st282 st283">. HMNS appear to look human</tspan><tspan x="66.6" y="0" class="st78 st282 st283">,</tspan><tspan x="67.4" y="0" class="st78 st282 st283"> but </tspan><tspan x="75" y="0" class="st78 st282 st283">y</tspan><tspan x="77" y="0" class="st78 st282 st283">ou </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 340.5353 153.3295)"><tspan x="0" y="0" class="st78 st282 st283">may notice sli</tspan><tspan x="23.7" y="0" class="st78 st282 st283">v</tspan><tspan x="25.7" y="0" class="st78 st282 st283">e</tspan><tspan x="28" y="0" class="st78 st282 st283">r</tspan><tspan x="29.3" y="0" class="st78 st282 st283">s of metal on their fac</tspan><tspan x="66.4" y="0" class="st78 st282 st283">e</tspan><tspan x="68.5" y="0" class="st78 st282 st283">,</tspan><tspan x="69.3" y="0" class="st78 st282 st283"> and their </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 343.9034 156.6982)"><tspan x="0" y="0" class="st78 st282 st283">ey</tspan><tspan x="4.3" y="0" class="st78 st282 st283">es a</tspan><tspan x="11.3" y="0" class="st78 st282 st283">r</tspan><tspan x="12.6" y="0" class="st78 st282 st283">e hypnotic but col</tspan><tspan x="43.9" y="0" class="st78 st282 st283">d</tspan><tspan x="46.3" y="0" class="st78 st282 st283">. Steer clear of HMN</tspan><tspan x="81.2" y="0" class="st78 st282 st283">S</tspan><tspan x="83" y="0" class="st78 st282 st283">,</tspan><tspan x="83.9" y="0" class="st78 st282 st283"> </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 347.2722 160.0663)"><tspan x="0" y="0" class="st78 st282 st283">for th</tspan><tspan x="9" y="0" class="st78 st282 st283">e</tspan><tspan x="11.3" y="0" class="st78 st282 st283">y kn</tspan><tspan x="18.3" y="0" class="st78 st282 st283">o</tspan><tspan x="20.8" y="0" class="st78 st282 st283">w </tspan><tspan x="24.8" y="0" class="st78 st282 st283">y</tspan><tspan x="26.9" y="0" class="st78 st282 st283">our n</tspan><tspan x="35.8" y="0" class="st78 st282 st283">e</tspan><tspan x="38.1" y="0" class="st78 st282 st283">xt m</tspan><tspan x="45.5" y="0" class="st78 st282 st283">o</tspan><tspan x="48" y="0" class="st78 st282 st283">v</tspan><tspan x="50" y="0" class="st78 st282 st283">e befo</tspan><tspan x="61.7" y="0" class="st78 st282 st283">r</tspan><tspan x="62.9" y="0" class="st78 st282 st283">e </tspan><tspan x="66.2" y="0" class="st78 st282 st283">y</tspan><tspan x="68.2" y="0" class="st78 st282 st283">ou ha</tspan><tspan x="78" y="0" class="st78 st282 st283">v</tspan><tspan x="80.1" y="0" class="st78 st282 st283">e </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 350.6389 163.4337)" class="st78 st282 st283">the chance to think it.</text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 355.5624 168.3571)"><tspan x="0" y="0" class="st78 st282 st283">W</tspan><tspan x="3.7" y="0" class="st78 st282 st283">ill the</tspan><tspan x="12.8" y="0" class="st78 st282 st283">r</tspan><tspan x="14" y="0" class="st78 st282 st283">e be an end to this madness? Or is </tspan></text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 358.9306 171.7258)" class="st78 st282 st283">humanity destined to become HMNS?</text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 199.8811 161.2188)" class="st78 st284 st285">When Will Humans </text>
+	</g>
+	<g class="st79">
+		<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 210.2419 171.5796)" class="st78 st284 st285">Know the Truth?</text>
+	</g>
+</g>
+<rect x="176.1" y="39.7" class="st11" width="239.8" height="369.8"/>
+</svg>

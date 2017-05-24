@@ -1,0 +1,60 @@
+<!Doctype html>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<title>Project Co</title>
+	<meta name="description" content="Project UX">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="stylesheet.css">
+	<script src='srcipt.js' type='text/javascript'>
+		</script>
+		<script src="jquery-3.2.0.min.js"></script>
+	</head>
+	<body>
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+			$('#first').addClass('show');
+			
+				$('#first').on('click', function()
+					{
+					$('#first').removeClass("show");
+					$('#second').addClass('show');
+					});
+			
+			$('#second').on('click', function()
+					{
+					$('#second').removeClass("show");
+					$('#third').addClass('show');
+					});
+			
+			$('#third').on('click', function()
+					{
+					$('#third').removeClass("show");
+					$('#four').addClass('show');
+					});
+			
+			$('#four').on('click', function()
+					{
+					$('#four').removeClass("show");
+					$('#final').addClass('show');
+					});
+			$('#final').on('click', function()
+					{
+					$('#final').removeClass("show");
+					$('#text').addClass('show');
+					});
+		});
+		</script>
+		
+			<img id ="four" src="elements/letter2.svg"/>
+			<img id ="third" src="elements/letter.svg"/>
+			<img id ="second" src="elements/envelope3.svg"/>
+			<img id="first"  src="elements/envelope.svg"/>
+			
+			<img id="final" src="elements/poster.svg"/>
+			<img id="text" src="elements/text.svg"/>
+		
+
+	</body>
+</html>

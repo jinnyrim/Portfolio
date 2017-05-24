@@ -4,151 +4,295 @@
         <meta charset="utf-8">
         <title>Smart Alarm</title>
         <meta name="description" content="Project UX">
-        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="stylesheet" href="style.css">
 		<script src="jquery-3.2.0.min.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<script src="script.js" type="text/javascript"></script>
+		
+   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ubuntu" rel="stylesheet">
+   
     </head>
 	<body>
-<!--page one-->
-		<div class="page one">
-			<div class="logo">
+	
+<!--logo-->
+<!--
+		
+-->
+	<script type="text/javascript">
+		
+		tday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+		tmonth=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+		function GetClock(){
+				var d=new Date();
+			var nday=d.getDay(),nmonth=d.getMonth(),ndate=d.getDate(),nyear=d.getYear();
+			if(nyear<1000) nyear+=1900;
+			var nhour=d.getHours(),nmin=d.getMinutes(),nsec=d.getSeconds(),ap;
+
+			if(nhour==0){ap=" AM";nhour=12;}
+			else if(nhour<12){ap=" AM";}
+			else if(nhour==12){ap=" PM";}
+			else if(nhour>12){ap=" PM";nhour-=12;}
+
+			if(nmin<=9) nmin="0"+nmin;
+			if(nsec<=9) nsec="0"+nsec;
+
+			document.getElementById('clockbox').innerHTML=""+tday[nday]+", "+tmonth[nmonth]+" "+ndate+", "+nyear+" "+nhour+":"+nmin+":"+nsec+ap+"";
+		}
+		function timeUp(){
+				var d=new Date();
+			var nday=d.getDay(),nmonth=d.getMonth(),ndate=d.getDate(),nyear=d.getYear();
+			if(nyear<1000) nyear+=1900;
+			var nhour=d.getHours(),nmin=d.getMinutes(),nsec=d.getSeconds(),ap;
+
+			if(nhour==0){ap=" AM";nhour=12;}
+			else if(nhour<12){ap=" AM";}
+			else if(nhour==12){ap=" PM";}
+			else if(nhour>12){ap=" PM";nhour-=12;}
+
+			if(nmin<=9) nmin="0"+nmin;
+			if(nsec<=9) nsec="0"+nsec;
+
+			document.getElementById('clockbox2').innerHTML=""+tday[nday]+", "+tmonth[nmonth]+" "+ndate+", "+nyear+" "+nhour+":"+nmin+":"+nsec+ap+"";
+		}
+
+		window.onload=function(){
+			GetClock();
+			setInterval(GetClock,1000);
+			timeUp();
+			setInterval(GetClock,1000);
+		}
+</script>
+
+
+	
+	<div class="orange front">
+		<div class="center">
+			<h1 id="clockbox" ></h1>
+		</div>
+	</div>
+	
+	<div class="top">
+		<h1 id="clockbox2" class='toptime'></h1>
+	</div>
+		
+<!--title/navigation-->
+<!--		<div class='start'>
+			<div class="title">
+				<div class="button left"></div>
+				<div class="button2 right"></div>
+				<div class="title-text">
+				<div class="deepblue">
+				<h1><em class='shake'>Smart : Alarm</em></h1>
+				</div>
+				</div>
+
+			</div>
+		</div>-->
+
+<!-- SMART ALARM -->
+		
+	<!-- smart alarm images -->
+		<div class="white object">
+			<div class="text">
+			<div class='object-question'>
+				<p class='question-left'>What if a paper is smart enough to wake you up and act like an alarm?</p>
+				
+				<p class='question-right'>
+					What about a paper that can tell you current news or any important information?
+				</p>
+				</div>
+				<div class='introduction'>
+				<h1>
+					Introducing<br>
+					Smart Alarm
+				</h1>
+				<img src="wireframe/IMG_2986.JPG">
+				</div>
+			</div>
+		</div>
+			
+		
+	<!-- user audience -->
+		<div class="orange audience">	
+			<div class="text ">
+				<h3>Who is it for?</h3>
+				<p>Anyone who is busy in the morning. </p>
+				<ul>
+					<li>Students who need to go to class. </li>
+					<li>Businessmen who want to figure out the traffic.</li>
+					<li>People who wants to know about the weather.</li>
+					<li>Anyone </li>
+				</ul>
+				<img class="float-right" src="images/alarmclock.gif">
+			</div>
+				
+		</div>
+		<div class="orange audience">	
+			<div class="text">	
+				<h3>How is this different from smart phone?</h3>
+				
+				<p>Sometimes, People don't come out a bed because they text and scroll through their endless newsfeed.</p>
+				<p>Smart Alarm only gives notifications of a day and does not give any extra newsfeed information from the past or future.</p>
+				<p>Also users are not able to type or text to their friends but only check the notification by viewing.</p>
+				<p>By only giving critical information for the day, it is more effective to users who are busy in the morning.</p>
+				
+				
+			</div>
+			</div>
+			
+			
+<!--wireframe		-->
+	<div class='white wireframe'>
+		<div class="text">
+			<h3>So, how does it work? </h3>
+
+			<div class="wire-box">
+			<p>Your Alarm will go off</p>
+			<img class="wire-right"  src="images/wireframe-01.svg">
+			</div>
+
+			<div class="wire-box">
+			<img class ="wire-left" src="images/wireframe-02.svg">
+			<p>Slam the paper to snooze the alarm.</p>
+			</div>
+
+			<div class="wire-box">
+			<p>Pick up the paper to turn off the alarm.</p>
+			<img class="wire-right"  src="images/wireframe-03.svg">
+			
+			</div>
+
+			<div class="wire-box">
+			<img class="wire-left fourth" src="images/wireframe-04.svg">
+			<p>Flip the paper to see the information inside.</p>
+			</div>
+			
+			<div class="wire-box">
+			<p>Notification of the day will be listed on the screen.</p>
+			<img class="wire-right" src="images/wireframe-05.svg">
+			
+			</div>
+		</div>
+	</div>
+		
+<!--interfaces		-->
+		<div class='white'>
+			<div class='text'>
+				<h3>Interfaces of the Alarm </h3>
+				<p>There are three stage of the alarm.</p>
+				<div class="setting">
+					<p>Normal Setting: The paper remains white.</p>
+					<img src="images/Artboard1.png"/>
+				</div>
+				
+				<div class='setting'>
+						<p>Alarmed Setting: The paper turns into a lighter shade of blue</p>
+						<img src="images/Artboard2.png"/>
+				</div>
+				
+				<div class='setting'>
+						<p>Snooze Setting: The paper turns darker shade of blue.</p>
+						<img src="images/Artboard3.png"/>
+				</div>
+			</div>
+			
+		</div>
+		<div class="flip">
+		<p>Flip the page</p>
+		<img src="images/flip.gif"/>
+		</div>
+			
+		<div class="white">
+			<div class="text">
+			<p>Inside of the alarm,</p>
+			
+				<div class="inside">
+				<p>Users can see the notifications of the day.</p>
+				<img src='images/Artboard5.png'>
+				</div>
+				<div class="inside">
+					<p>Breaking News will alert the user. User can click the article.</p>
+					<img src="images/Artboard4.png">
+				</div>
+				<div class="inside">
+					<p>Click the box and see the article. User can exit the article by clicking the "x"</p>
+					<img src='images/Artboard6.png'>
+					
+				</div>
+			</div>
+		</div>
+		
+	<div class="orange break">
+	</div>
+
+<!-- experience -->
+		<div class='orange experience'>
+			<div class='text'>
+			<h3>Prototype</h3>
+				<p>Scroll through images to see</p>
+			
+			<div class="container">
+						<p>Alarm off</p>
+				<div class="container-img">
+					<img src="wireframe/IMG_2934.JPG">
+					<img src="wireframe/IMG_2936.jpg">
+					<img src = "wireframe/IMG_2972.JPG">
+					<img src="wireframe/IMG_2968.JPG">
+					<img src="wireframe/IMG_2976%20copy.jpg">
+					<img src="wireframe/IMG_2978.JPG">
+					<img src="wireframe/IMG_2982.JPG">
+					<img src="wireframe/IMG_2984.JPG">
+					<img src="wireframe/IMG_2986.JPG">
+				</div>
+			</div>
+			
+		<div class="container ">
+			<p>Alarm on snooze</p>
+				<div class="container-img">
+					<img src="wireframe/IMG_2934.JPG">
+					<img src="wireframe/IMG_2936%20copy.jpg">
+					<img src = "wireframe/IMG_2972.JPG">
+					<img src="wireframe/IMG_2968.JPG">
+					<img src="wireframe/IMG_2973.JPG">
+				</div>
+			</div>
+			</div>
+		</div>
+		
+		
+		
+<!-- process -->
+	
+		<div class="white process">
+			<div class="text">
+				<h3>Process</h3>
+					<p> Initial process Works</p>
+			</div>
+			<div class="process-images">
+				<img src="process/jinnyrim1.jpg">
+				<img src="process/jinnyrim2.jpg">
+				<img src="process/jinnyrim3.jpg">
+			</div>
+		</div>
+		
+<!-- colophon -->
+		
+		
+		
+		<div class="orange logo">
+			<div class="logo-img">
 				<img src="images/alarmclock.gif">
 				<img src="images/alarmclock.gif"/>
 				<img src="images/alarmclock.gif"/>
 			</div>
 		</div>
-		
-<!--pagetwo-->
-		<div class="page two">
-			<div class="title">
-				<h1>Smart Alarm</h1>
-			</div>
-		</div>
-		
-<!--page three-->
-		<div class="page three">
-			<div class="text">
-				<h1>Project Description</h1>
-				<div class="description">
-					<p>Taking as a premise that paper can be “smart”, you will design how a breaking news story to be accessed and experienced by a user. The news story will be: we landed on mars.</p>
-					<p>
-						From FiveThirtyEight.com’s Americans Will Never Make Mars a Priority: Why Should That Stop Us?
-					</p>
-					<p>	
-						The project will entail:
-						
-						concepting<br>
-						user research<br>
-						prototyping<br>
-						content creation<br>
-						user experience<br>
-						“SMART PAPER”
-					</p>
-					<p>
-						In this project, “editorial design” not only means the design of the reading experience for a conventional mobile device. It will mean the design of the device itself. You are free to think outside the rectangle, outside the vertical scroll, outside the mobile box that fits inside your pocket.
-					</p>
-					<p>
-						At RISD, graphic design students are known for doing wonders with paper. This project will put you to the test. What if paper had all the capabilities of your mobile device? Geolocation, audio sensors, wifi. What new kind of device would you craft out of paper as the delivery mechanism for this breaking news story?
-					</p>
-				</div>
-			</div>
-		</div>
-		
-<!--page four-->
-		<div class="page four">
-			<div class="text">
-				<h1>Problems</h1>
-				<div class="images">
-					<img/>
-					<img/>
-					<img/>
-					<img/>
-				</div>
-			</div>
-		</div>
-		
-<!--page five-->
-		<div class="page five">
-			<div class="text">
-				<h1>Smart Alarm</h1>
-				<div class="images">
-					<img/>
-					<img/>
-					<img/>
-					<img/>
-				</div>
-			</div>
-		</div>
-<!--page six-->
-		<div class="page six">
-			<div class="text">
-				<h1>Who is it for?</h1>
-				<div class="description">
-					<p>Anyone who are busy in the morning. 
-					Student who need to go to class. 
-					Businessmen who wants to figure out traffic. 
-					People who wants to know about weather. </p>
-				</div>
-				<h1>How is this different from smart phone?</h1>
-				<div class="description">
-					<p>Like some who reads news paper daily. This is only informs any news that happened on that day, while you are asleep or away. It doesn’t allow you to type. Therefore, it doesn’t stop people from waking up. </p>
-				</div>
-			</div>
-		</div>
-<!--page seven-->
-		<div class="page seven">
-			<div class="text">
-				<h1>How does it work?</h1>
-				<p>She wakes up</p>
-
-				<div class="process">
-					<div class="process-images">
-						<img src="wireframe/IMG_2934.JPG">
-						<img src="wireframe/IMG_2936%20copy.jpg">
-						<img src = "wireframe/IMG_2972.JPG">
-						<img src="wireframe/IMG_2968.JPG">
-						<img src="wireframe/IMG_2976%20copy.jpg">
-						<img src="wireframe/IMG_2978.JPG">
-						<img src="wireframe/IMG_2982.JPG">
-						<img src="wireframe/IMG_2984.JPG">
-						<img src="wireframe/IMG_2985.JPG">
-					</div>
-				</div>
-				<p >Snooze</p>
-				<div class="process">
-					<div class="process-images">
-						<img src="wireframe/IMG_2934.JPG">
-						<img src="wireframe/IMG_2936%20copy.jpg">
-						<img src = "wireframe/IMG_2972.JPG">
-						<img src="wireframe/IMG_2968.JPG">
-						<img src="wireframe/IMG_2973.JPG">
-					</div>
-				</div>
-			</div>
-		</div>
-<!--page eight-->
-		<div class="page eight">
-			<div class="text">
-				<h1>Process</h1>
-				<div class="process">
-					<div class="process-images">
-						<img>
-						<img>
-						<img>
-						<img>
-						<img>
-						<img>
-					</div>
-				</div>
-			</div>
-		</div>
-<!--page nine-->
-		<div class="page nine">
-				<div class="end">
-					<p>Smart Alarm</p>
-					<p>Jinny Rim</p>
-					<p>Editorial Design for Screen</p>
-					<p>Spring 2017</p>
+		<div class="orange colophon">
+			<div class="colophontext">
+				<p>Smart Alarm</p>
+				<p>Jinny Rim</p>
+				<p>Editorial Design for Screen</p>
+				<p>Spring 2017</p>
 			</div>
 		</div>
 	</body>
