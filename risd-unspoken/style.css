@@ -1,0 +1,168 @@
+body{
+	width:100vw;
+	height:100vh;
+	margin:0 auto;
+	font-family: 'Lora', serif;
+	text-align: center;
+	background:black;
+	color:white;
+	letter-spacing: .1px;
+}
+.window{
+	width:98vw;
+	height:98vh;
+	display:inline-flex;
+	flex-direction: column;
+	justify-content: center;
+	margin:none;
+}
+
+div.bubble{
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width:700px;
+	height:700px;
+	margin:0 auto;
+	background:linear-gradient(-45deg, rgb(248,187,214),rgb(248,187,214),rgb(120, 192, 235),rgb(120, 192, 235));
+	background-size: 200% 200%;
+	-webkit-animation: Gradient 15s ease infinite;
+	-moz-animation: Gradient 15s ease infinite;
+	animation: Gradient 15s ease infinite;
+	border-radius:350px;
+}
+
+.center{
+	margin: 0 auto;
+	text-align:center;
+}
+
+h1{
+	padding-top:80px;
+	letter-spacing: .5px;
+	font-size:40px;
+}
+
+	
+
+/*intro*/
+.intro{
+	display:block;
+	margin:0 auto;
+	text-align:center;
+	width:60%;
+	line-height: 1.5;
+}
+
+/*====form=====*/
+form, form *, h1{
+	align-content: center;
+	text-align: center;
+}
+
+form *{
+	margin-bottom:20px;
+}
+
+form{
+	padding-top:20px;
+}
+
+
+input, textarea{
+	background:transparent;
+	color:white;
+	border:1px solid white;
+}
+
+textarea, input.cat_textbox{
+	width:50%;
+	min-height:50px;
+	caret-color:white;
+}
+
+input.cat_button{
+	margin-top:50px;
+}
+
+input[type="submit"]:active{
+	background:white;
+	
+} 
+
+.confirmation{
+	font-size:10px;
+	margin-top:50px;
+}
+
+span{
+	font-size:150px;
+}
+
+/*gradient*/
+@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+		
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+
+
+
+@media only screen and (max-width: 900px) {
+	body{
+		font-size:12px;
+	}
+	div.bubble{
+		width:500px;
+		height:500px;
+		border-radius:250px; 
+	}
+
+	h1{
+		padding-top:20px;
+	}
+	form{
+		padding-top:10px;
+	}
+	form *{
+		margin:8;
+	}
+	.explanation{
+		margin:0;	
+	}
+	.confirmation{
+		margin-top:20px;
+	}
+}
