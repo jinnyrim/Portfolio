@@ -88,14 +88,11 @@ button{
 	display:block;
 	margin:0 auto;
 	margin-bottom:20px;
-	
-}
-button a{
 	color:white;
 	text-decoration: none;
 	font-family: 'Lora', serif;
+	
 }
-
 
 
 .confirmation{
@@ -105,10 +102,6 @@ button a{
 
 span{
 	font-size:150px;
-}
-.js-success-message{
-	display:block;
-	margin-top:50px;
 }
 
 .is-hidden {
