@@ -8,6 +8,8 @@
   <meta name="description" content="Risd unspoken messages">
 
   <link rel="stylesheet" href="style.css">
+  
+  <script src="jquery-3.2.1.min.js"></script>
 
   <script src="https://unpkg.com/prefixfree@1.0.0/prefixfree.min.js"></script>
 
@@ -19,7 +21,7 @@
 
   
     <!--introduction-->
-<section class="window">
+<div class="window">
 <div class="bubble">
 
   <h1>Unposken</h1>
@@ -31,11 +33,11 @@
 
   </div>
 </div>
-</section>
+</div>
   
   
 <!--form-->
-  <section class="window">
+  <div class="window">
   <div class="bubble">
     <h1>Unspoken</h1>
     <p class="center explanation"> Leave your memories, or secrets behind.</p>
@@ -49,19 +51,17 @@
     <textarea name="place" type="text" ></textarea>
     <br>
     
-    <button type="submit" value="submit" id="submit">submit</button> 
+    <button type="submit" id="submit">submit</button> 
   
   <p class="confirmation">Information will kept anonymous and unknown.</p>
-  
-  
-</form>
+  </form>
 </div>
   </div>
-</section>
+</div>
 
 
   <script>
-    const scriptURL = 'https://script.google.com/a/risd.edu/macros/s/AKfycbzIMXyuL5sy2tppJFRWSkQDcU78zJmcHmfEw04jYiRHzKMQd8Fj/exec'
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzIMXyuL5sy2tppJFRWSkQDcU78zJmcHmfEw04jYiRHzKMQd8Fj/exec'
     const form = document.forms['submit-to-google-sheet']
     const loading = document.querySelector('.js-loading')
     const successMessage = document.querySelector('.js-success-message')
