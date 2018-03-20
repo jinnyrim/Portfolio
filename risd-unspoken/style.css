@@ -85,6 +85,10 @@ button{
 	background:transparent;
 	border: 1px solid white;
 	height:20px;
+	display:block;
+	margin:0 auto;
+	margin-bottom:20px;
+	
 }
 button a{
 	color:white;
