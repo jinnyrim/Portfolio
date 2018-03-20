@@ -1,133 +1,101 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="author" content="My Name">
-	<title>RISD Unspoken</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	</head>
-	
-	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
-	
-	<script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <title>RISD Unspoken</title>
+  <meta name="description" content="Risd unspoken messages">
 
-	
-	
-	
-	<body>
-		
-		
-<!--introduction-->
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://unpkg.com/prefixfree@1.0.0/prefixfree.min.js"></script>
+
+  <script src="https://wzrd.in/standalone/formdata-polyfill@latest"></script>
+  <script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
+  <script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+</head>
+<body>
+
+  
+    <!--introduction-->
 <section class="window">
 <div class="bubble">
 
-	<h1>Unposken</h1>
-	<div class="intro">
-		<p>Unspoken is a project for graduating seniors who wants to leave any message that they were unable to speak during last four years. It can be memories from last four years or dark secret that you couldn’t tell anyone. This project is intended to leave any heavy burden off from the back or leave any happy memories during college year before you face your “adult world”.</p> 
+  <h1>Unposken</h1>
+  <div class="intro">
+    <p>Unspoken is a project for graduating seniors who wants to leave any message that they were unable to speak during last four years. It can be memories from last four years or dark secret that you couldn’t tell anyone. This project is intended to leave any heavy burden off from the back or leave any happy memories during college year before you face your “adult world”.</p> 
 
-		<p>All these messages will anonymously posted and only the writer will know about it. If you have any message that you want to leave behind, please scroll below and leave some words. 
-		</p>
+    <p>All these messages will anonymously posted and only the writer will know about it. If you have any message that you want to leave behind, please scroll below and leave some words. 
+    </p>
 
-	</div>
+  </div>
 </div>
 </section>
-	
-	
+  
+  
 <!--form-->
-	<section class="window">
-	<div class="bubble">
+  <section class="window">
+  <div class="bubble">
     <h1>Unspoken</h1>
-    <p class="center explanation"> Leave your memories, or secrets behind</p>
-  	
-	
-	<form name="submit-to-google-sheet">   
-	
-	<p>Tell me your Story</p>
-	<textarea type="text"></textarea>
-	<p>Where do you want to see your message? (cannot be your room)</p>
-		<textarea type="text" ></textarea>
-		<br>
-		
-	<input type="submit" value="Submit" id="submit"> 
-	
-	<p class="confirmation">Information will kept anonymous and unknown.</p>
-	
-	
+    <p class="center explanation"> Leave your memories, or secrets behind.</p>
+    
+  <div class="form-container">
+  <form name="submit-to-google-sheet"> 
+  
+  <p>Tell me your Story</p>
+  <textarea type="text"></textarea>
+  <p>Where do you want to see your message? (cannot be your room)</p>
+    <textarea type="text" ></textarea>
+    <br>
+    
+    <button type="submit" value="submit" id="submit"><a href="thankyou.html">submit</a></button> 
+  
+  <p class="confirmation">Information will kept anonymous and unknown.</p>
+  
+  
 </form>
 </div>
+  </div>
 </section>
 
-    <script>
-        const scriptURL = 'https://script.google.com/a/risd.edu/macros/s/AKfycbzIMXyuL5sy2tppJFRWSkQDcU78zJmcHmfEw04jYiRHzKMQd8Fj/exec'
-        const form = document.forms['submit-to-google-sheet']
-        const loading = document.querySelector('.js-loading')
-        const successMessage = document.querySelector('.js-success-message')
-        const errorMessage = document.querySelector('.js-error-message')
 
-        form.addEventListener('submit', e => {
-            e.preventDefault()
-            showLoadingIndicator()
-            fetch(scriptURL, {
-                    method: 'POST',
-                    body: new FormData(form)
-                })
-                .then(response => showSuccessMessage(response))
-                .catch(error => showErrorMessage(error))
-        })
+  <script>
+    const scriptURL = 'https://script.google.com/a/risd.edu/macros/s/AKfycbzIMXyuL5sy2tppJFRWSkQDcU78zJmcHmfEw04jYiRHzKMQd8Fj/exec'
+    const form = document.forms['submit-to-google-sheet']
+    const loading = document.querySelector('.js-loading')
+    const successMessage = document.querySelector('.js-success-message')
+    const errorMessage = document.querySelector('.js-error-message')
 
-        function showLoadingIndicator() {
-            form.classList.add('is-hidden')
-            loading.classList.remove('is-hidden')
-        }
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      showLoadingIndicator()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => showSuccessMessage(response))
+        .catch(error => showErrorMessage(error))
+    })
 
-        function showSuccessMessage(response) {
-            console.log('Success!', response)
-            setTimeout(() => {
-                successMessage.classList.remove('is-hidden')
-                loading.classList.add('is-hidden')
-            }, 500)
-        }
+    function showLoadingIndicator () {
+      form.classList.add('is-hidden')
+      loading.classList.remove('is-hidden')
+    }
 
-        function showErrorMessage(error) {
-            console.error('Error!', error.message)
-            setTimeout(() => {
-                errorMessage.classList.remove('is-hidden')
-                loading.classList.add('is-hidden')
-            }, 500)
-        }
+    function showSuccessMessage (response) {
+      console.log('Success!', response)
+      setTimeout(() => {
+        successMessage.classList.remove('is-hidden')
+        loading.classList.add('is-hidden')
+      }, 500)
+    }
 
-        //This span is used to measure the size of the textarea
-        //it should have the same font and text with the textarea and should be hidden
-        var span = $('<span>').css('display', 'inline-block')
-            .css('word-break', 'break-all')
-            .appendTo('body').css('visibility', 'hidden');
+    function showErrorMessage (error) {
+      console.error('Error!', error.message)
+      setTimeout(() => {
+        errorMessage.classList.remove('is-hidden')
+        loading.classList.add('is-hidden')
+      }, 500)
+    }
+  </script>
 
-        function initSpan(textarea) {
-            span.text(textarea.text())
-                .width(textarea.width())
-                .css('font', textarea.css('font'));
-        }
-        $('textarea').on({
-            input: function() {
-                var text = $(this).val();
-                span.text(text);
-                $(this).height(text ? span.height() : '2.5em');
-            },
-            focus: function() {
-                initSpan($(this));
-            },
-            keypress: function(e) {
-                //cancel the Enter keystroke, otherwise a new line will be created
-                //This ensures the correct behavior when user types Enter 
-                //into an input field
-                if (e.which == 13) e.preventDefault();
-            }
-			
-		});
-		
-
-    </script>
 </body>
 </html>
-
-

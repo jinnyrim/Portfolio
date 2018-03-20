@@ -75,20 +75,24 @@ input, textarea{
 	border:1px solid white;
 }
 
-textarea, input.cat_textbox{
+textarea, input{
 	width:50%;
 	min-height:50px;
 	caret-color:white;
 }
 
-input.cat_button{
-	margin-top:50px;
+button{
+	background:transparent;
+	border: 1px solid white;
+	height:20px;
+}
+button a{
+	color:white;
+	text-decoration: none;
+	font-family: 'Lora', serif;
 }
 
-input[type="submit"]:active{
-	background:white;
-	
-} 
+
 
 .confirmation{
 	font-size:10px;
@@ -163,6 +167,6 @@ span{
 		margin:0;	
 	}
 	.confirmation{
-		margin-top:20px;
+		margin-top:0;
 	}
 }
