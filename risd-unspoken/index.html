@@ -17,26 +17,28 @@
 </head>
 <body>
 
-<div class="window">
-<div class="bubble">
+<div class="title-page">
+  <h1 class="title">Unspoken</h1>
+</div>
+<div class="intro-page">
 
-  <h1>Unspoken</h1>
+
   <div class="intro">
     <p>Unspoken is for graduating seniors  to leave a message that they were unable to speak during the past four years. It can be memories from their time at school or a dark secret that you couldn’t tell anyone. This project is for people to shed heavy burdens or to leave a happy memory before entering the "adult" world.</p> 
 
     <p>All messages will be anonymously posted. If you want to leave any message behind, please scroll below. 
     </p>
 
-  </div>
 </div>
 </div>
   
   
 <!--form-->
   <div class="window">
+   <div>
+    <p class="explanation"> Leave your memories and secrets behind.</p>
   <div class="bubble">
-    <h1>Unspoken</h1>
-    <p class="center explanation"> Leave your memories and secrets behind.</p>
+
     
   <div class="form-container">
   <form name="submit-to-google-sheet"> 
@@ -44,7 +46,7 @@
   <p >Tell me your story</p>
   <textarea name="story" type="text"></textarea>
 
-  <p name = "">Where do you want your message to be seen? (Must be a public space)</p>
+  <p>Where do you want your message to be seen? <br>(Must be a public space)</p>
   <textarea name="place" type="text"> </textarea>
     
   <button type="submit" id="submit">submit</button> 
@@ -60,6 +62,7 @@
     <p class="js-success-message is-hidden">Thank you for your submission.</p>
     <p class="js-error-message is-hidden">Error, Please try again</p>
 </div>
+  </div>
   </div>
 </div>
 
