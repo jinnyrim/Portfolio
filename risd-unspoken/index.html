@@ -5,12 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>RISD Unspoken</title>
-  <meta name="description" content="Risd unspoken messages">
+  <meta name="description" content="RISD Unspoken messages">
+  <link href="./favicon.png" rel="shortcut icon">
 
   <link rel="stylesheet" href="style.css">
-  
-  <script src="jquery-3.2.1.min.js"></script>
-
   <script src="https://unpkg.com/prefixfree@1.0.0/prefixfree.min.js"></script>
 
   <script src="https://wzrd.in/standalone/formdata-polyfill@latest"></script>
@@ -19,8 +17,6 @@
 </head>
 <body>
 
-  
-    <!--introduction-->
 <div class="window">
 <div class="bubble">
 
@@ -59,7 +55,18 @@
   </div>
 </div>
 
+    <div class="loading js-loading is-hidden">
+      <div class="loading-spinner">
+        <svg><circle cx="25" cy="25" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/></svg>
+      </div>
+    </div>
 
+    <p class="js-success-message is-hidden">Success!</p>
+    <p class="js-error-message is-hidden">Error!</p>
+  </div>
+
+  <a href="https://docs.google.com/spreadsheets/d/1-KzY1rljP95rcLSbzm4uoxU43ZH2i1aLaRg_nVxT_sE/edit#gid=0" target="_blank">View the Google Sheet</a>
+  
   <script>
     const scriptURL = 'https://script.google.com/macros/s/AKfycbzIMXyuL5sy2tppJFRWSkQDcU78zJmcHmfEw04jYiRHzKMQd8Fj/exec'
     const form = document.forms['submit-to-google-sheet']
