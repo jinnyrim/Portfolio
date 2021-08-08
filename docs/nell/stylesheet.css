@@ -1,0 +1,137 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary,time, mark, audio, video {
+    margin:0; 
+    padding:0; 
+    border:0; 
+    outline:0; 
+    font-size:100%; 
+    vertical-align:baseline; background:transparent;
+}
+body {
+    line-height:1;
+    background:black;
+    color:white;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+ul li{
+    list-style:none;
+}
+a {
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; background: transparent; 
+    text-decoration: none;
+}
+
+.header{
+    display:block;
+    text-align: center;
+    text-transform:uppercase;
+    font-size:4rem;
+    margin-top:50px;
+	font-family:Hans;
+}
+
+
+/*ablum organization*/
+
+
+.container{
+    margin: 10 d0px;
+    margin-top:100px;
+	margin-bottom:100px;
+    text-align: center;
+}
+
+#albums{
+    height: 250px;
+    position:relative;
+    width:250;
+    margin:0 auto;
+    object-position: center;
+    display:inline-block;
+    margin-right:40px;
+    margin-bottom: 40px;
+}
+
+img{
+    height:auto;
+    width:250px;
+    margin-bottom:40px;
+    position:relative;
+    object-position: center;
+    z-index:1;
+}
+
+a:hover, a:active{
+    z-index:-3;
+    opacity:0.4;
+    border:none;
+    
+}
+
+img:active{
+    box-shadow:5px 5px 0px gray;
+    position:relative;
+    left:10px;
+    top:10px;
+}
+
+/*fonts*/
+@font-face{
+	font-family:Hans;
+	src:url('HanS Calli.ttf');
+}
+
+li, h1, p{
+    color:white;
+    opacity:inherit;
+}
+
+p{
+    width:auto;
+    height:auto;  
+}
+
+li{
+    font-size:20px;
+    line-height: 2;
+	font-family:Hans;
+}
+
+span{
+    margin:auto;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    height:20px;
+    font-size:20px;
+    z-index:1;
+}
+
+/*individual albums*/
+
+/*top*/
+
+
+
+
+/*description*/
+
+
+footer{
+    bottom:0;
+    display:block;
+    position:fixed;
+    margin-bottom:0;
+
+}

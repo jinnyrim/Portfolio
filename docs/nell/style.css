@@ -1,0 +1,219 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary,time, mark, audio, video {
+    margin:0; 
+    padding:0; 
+    border:0; 
+    outline:0; 
+    font-size:100%; 
+    vertical-align:baseline; background:transparent;
+}
+body {
+    line-height:1;
+    background:black;
+    color:white;
+}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+ul li{
+    list-style:none;
+}
+a {
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+    vertical-align: baseline; background: transparent; 
+    text-decoration: none;
+}
+.header{
+    display:block;
+    text-align: center;
+    text-transform:uppercase;
+    font-size:4rem;
+}
+p{
+    width:auto;
+    height:auto;  
+}
+a:link, a:visited{
+    color:white;
+}
+
+button:hover, button:active{
+    background-color:white;
+    color:black;
+}
+
+li:hover{
+    color:grey;
+}
+li> p{
+    color:white;
+}
+
+/*individual albums: full-width*/
+s
+@font-face{
+	font-family:Hans;
+	src:url('HanS Calli.ttf');
+}
+
+
+/*top*/
+#top{
+	text-align:center;
+	margin-top:1.5rem;
+	margin-bottom:1.5rem;
+}
+
+.title{
+	font-family:hans;
+	font-size:40px;
+	line-height:1.3em;
+}
+
+
+/*images*/
+img{
+	width:35%;
+	height:auto;
+	display:inline-block;
+	position:fixed;
+	margin-left:100px;
+	margin-top:50px;
+}
+
+/*button*/
+#player{
+	padding:5%;
+	margin: 0 auto;
+	left:100px;
+}
+
+button {
+	display:inline-block;
+	margin:3px;
+	background-color:black;
+	color:white;
+	width:30px;
+	height:30px;
+	text-align: center;
+	border:none;
+	border-color: white;
+	border-style: solid;
+	border-width:1px;
+}
+
+
+
+
+/*description*/
+ul{
+	margin-bottom:50px;
+}
+h1{
+	font-size:18px;
+}
+
+li{
+    font-size:25px;
+    line-height: 2;
+	font-family:Hans;
+	width:100%;
+	display:block;
+	padding:20px;
+}
+
+
+
+#description{
+	float:right;
+	width:400px;
+	padding:30px;
+	margin-right:5%;
+	text-align: left;
+}
+
+.lyrics{
+	line-height:1.5rem;
+	font-family:nanum;
+	font-size:12.5px;
+	width:80%;
+	display:block;
+}
+.selected{
+	text-decoration: underline;
+}
+
+footer{
+    bottom:0;
+    display:block;
+    position:fixed;
+    margin-bottom:0;
+
+}
+
+audio{
+	padding-top:10px;
+	padding-bottom:40px;
+	margin:0 auto;
+	volume:0.0;
+}
+audio::-internal-media-controls-download-button {
+    display:none;
+}
+
+audio::-webkit-media-controls-enclosure {
+    overflow:hidden;
+}
+
+audio::-webkit-media-controls-panel {
+    width: calc(100% + 30px); /* Adjust as needed */
+}
+
+@media screen and (max-width:840px){
+	
+    img {
+        width:50%;
+        height:auto;
+        display:block;
+        margin: 0 auto;
+        float: center;
+        position:relative;
+    }
+	#player{
+		margin:0 auto;
+		left:100px;
+		
+    }
+	button{
+		float:center;
+		margin: 0 auto;
+	}
+    div#description{
+        margin: 0 auto;
+        padding:none;
+        position:relative;
+        float:none;
+    }
+    li{
+        text-align:center;
+        margin:0 auto;
+        padding-left: 0;
+    }
+    li p{
+        text-align:center;
+        margin:0 auto;
+        margin-top:20px;
+        
+    }
+	audio{
+	padding-top:30px;
+	padding-bottom:70px;
+	margin:0 auto;
+}
+}
